@@ -1,323 +1,141 @@
 ---
 permalink: "/en/partner/"
-title: "Partnerships"
-objectives:
-- Explain why teachers in schools and universities do and don't
-  adopt better teaching practices.
-- Summarize methods that can be used to effect changes in
-  educational institutions.
+title: "Συνεργασίες"
+Μετά από τη μελέτη αυτού του κεφαλαίου θα είστε σε θέση:
+- Να εξηγείτε γιατί οι δάσκαλοι στα σχολεία και στα πανεπιστήμια υιοθετούν ή δεν υιοθετούν βελτιωμένες τεχνικές διδασκαλίας. 
+- Να συνοψίζετε τις μεθόδους που μπορούν να χρησιμοποιηθούν για να επιφέρουν αλλαγές στους εκπαιδευτικούς οργανισμούς.
 ---
 
-[s:community-learn-then-do](#SECTION) said that the first step in
-building a community is to decide if you really need to, or whether you
-would be more effective joining an existing organization. Either way,
-the organization you're part of will eventually need to work with other,
-more established groups: schools, community programs, churches, the
-courts, and companies. This chapter presents a handful of strategies for
-figuring out how to do that, and when it's worthwhile.
 
-Unlike most of the rest of this book, this chapter is drawn more from
-things I have seen than from things I have done. Most of my attempts
-to get large institutions to change have been unproductive (which is
-part of why I left a university position to re-start [Software
-Carpentry][swc] in 2010). While contributions to any part of this book
-are welcome, I would be particularly grateful to hear what you have to
-say about the issues discussed below.
+Στην ενότητα [s:community-learn-then-do](#SECTION) αναφέραμε πως το πρώτο βήμα για τη δημιουργία μιας κοινότητας είναι να αποφασίσουμε αν πραγματικά τη χρειαζόμαστε, ή αν θα ήταν πιο αποτελεσματικό να εντασσόμασταν σε μία υφιστάμενη οργάνωση. Όποιον τρόπο και αν επιλέξουμε, ο οργανισμός στον οποίο θα συμμετέχουμε θα χρειαστεί αργά ή γρήγορα να συνεργαστεί με άλλες, περισσότερο καθιερωμένους οργανισμούς: σχολεία, πρωτοβουλίες της κοινότητας, εκκλησίες, δικαστική εξουσία, ή εταιρείες. Αυτό το κεφάλαιο παρουσιάζει αρκετές στρατηγικές για να ξεκαθαρίζετε πως μπορείτε να το κάνετε αυτό, και πότε αξίζει τον κόπο.
 
-## Working With Schools {#s:partner-schools}
+Αντίθετα με ότι συμβαίνει στο μεγαλύτερο μέρος αυτού του βιβλίου, αυτό το κεφάλαιο στηρίζεται περισσότερο σε πράγματα που έχω δει παρά σε πράγματα που έχω κάνει. Οι περισσότερες απόπειρες μου να φέρω αλλαγές σε μεγάλους οργανισμούς υπήρξαν μη-παραγωγικές (κάτι που αποτέλεσε έναν από τους λόγους για τους οποίους παράτησα μία θέση σε πανεπιστήμιο για να ξεκινήσω ξανά το [Software Carpentry](http://carpentries.org) το 2010). Αν και οι συνεισφορές είναι καλοδεχούμενες για οποιοδήποτε κομμάτι αυτού του βιβλίου, θα ήμουν ιδιαίτερα ευγνώμων να ακούσω τι έχετε να πείτε για τα ζητήματα που συζητάμε παρακάτω.
 
-Everyone is afraid of the unknown and of embarrassing themselves. As a
-result, most people would rather fail than change. For example, Lauren
-Herckis looked at [why university faculty don't adopt better teaching
-methods][faculty-adopt-teaching-methods].  She found that the main
-reason is a fear of looking stupid in front of their students;
-secondary reasons were concern that the inevitable bumps in changing
-teaching methods would affect course evaluations, and a desire to
-continue emulating the lecturers who had inspired them. It's pointless
-to argue about whether these issues are "real" or not: faculty believe
-they are, so any plan to work with faculty needs to address them.
+## Συνεργασία Με Σχολεία {#s:partner-schools}
 
-[[Bark2015](#CITE)] did a two-part study of how computer science
-educators adopt new teaching practices as individuals, organizationally,
-and in society as a whole. They asked and answered three key questions:
 
-1. *How do faculty hear about new teaching practices?* They
-   intentionally seek them out because they're motivated to solve a
-   problem (particularly student engagement), are made aware through
-   deliberate initiatives by their institutions, pick them up from
-   colleagues, or get them from expected *and unexpected* interactions
-   at conferences (either teaching-related or technical).
+Όλοι φοβούνται το άγνωστο και την έκθεση του εαυτού τους. Ως αποτέλεσμα, οι περισσότεροι προτιμούν να αποτύχουν παρά να αλλάξουν. Για παράδειγμα, η Lauren Herckis εξέτασε [γιατί οι καθηγητές πανεπιστημίων δεν υιοθετούν βελτιωμένες τεχνικές διδασκαλίες](https://www.insidehighered.com/news/2017/07/06/anthropologist-studies-why-professors-dont-adopt-innovative-teaching-methods). Βρήκε πως ο κύριος λόγος είναι ο φόβος να φανούν ανόητοι μπροστά στους φοιτητές τους. 
+Δευτερεύοντες λόγοι αφορούσαν στο γεγονός πως τα αναπόφευκτα τραντάγματα από τις αλλαγές στις μεθόδους διδασκαλίας θα επηρέαζαν τις αξιολογήσεις των μαθημάτων, και στην επιθυμία να συνεχίζουν να μιμούνται τους δασκάλους που είχαν εμπνεύσει τους ίδιους. Δεν έχει νόημα να συζητήσουμε αν αυτά τα ζητήματα είναι «πραγματικά» ή όχι: οι καθηγητές πιστεύουν πως είναι, οπότε κάθε σχέδιο για συνεργασία μαζί τους πρέπει να τα λαμβάνει υπόψη.
 
-1. *Why do they try them out?* Sometimes because of institutional
-   incentives (e.g., they innovate to improve their chances of
-   promotion), but there is often tension at research institutions
-   where rhetoric about the importance of teaching is largely
-   disbelieved. Another important reason is their own cost/benefit
-   analysis: will the innovation save them time? A third is that they
-   are inspired by role models---again, this largely affects innovations
-   aimed to improve engagement and motivation rather than learning
-   outcomes---and a fourth is trusted sources, e.g., people they meet at
-   conferences who are in the same situation that they are and reported
-   successful adoption.
+Οι [[Bark2015](#CITE)] διεξήγαγαν μία μελέτη δύο φάσεων για το πως οι εκπαιδευτές της επιστήμης των υπολογιστών υιοθετούν νέες πρακτικές διδασκαλίας ως άτομα, μέσα στην οργάνωση τους, και μέσα στην κοινωνία γενικότερα. Απαντήσανε σε τρείς κρίσιμες ερωτήσεις που τους έγιναν:
 
-   But faculty had concerns, and those concerns were often not
-   addressed by people advocating changes. The first was Glass's Law:
-   any new tool or practice initially slows you down. Another is that
-   the physical layout of classrooms makes many new practices hard:
-   discussion groups just don't work in theater-style seating.
+1. *Πως μαθαίνουν οι καθηγητές για νέες πρακτικές διδασκαλίας;* Τις αναζητούν συνειδητά επειδή έχουν το κίνητρο να επιλύσουν ένα πρόβλημα (συγκεκριμένα την αφοσίωση των φοιτητών), τις μαθαίνουν μέσα από σκόπιμες πρωτοβουλίες των ιδρυμάτων τους, τις μαθαίνουν από συναδέλφους, ή τις ακούνε κατά τις αναμενόμενες *και τις αναπάντεχες* αλληλεπιδράσεις στα συνέδρια (είτε πάνω σε θέματα διδασκαλίας ή σε τεχνικά θέματα).
 
-   But the most telling result was this: "Despite being researchers
-   themselves, the CS faculty we spoke to for the most part did not
-   believe that results from educational studies were credible reasons
-   to try out teaching practices." This is consistent with other
-   findings: even people whose entire careers are devoted to research
-   will disregard education research.
+1. *Γιατί προσπαθούν να τις εφαρμόσουν;* Κάποιες φορές εξαιτίας κινήτρων από τα ιδρύματα τους (π.χ. καινοτομούν να για αυξήσουν τις πιθανότητες προαγωγής τους), αλλά στα ερευνητικά ιδρύματα υπάρχει συχνά μία τάση δυσπιστίας για τη ρητορική σχετικά με τη σημασία της διδασκαλίας. Ένας άλλος σημαντικός λόγος είναι η προσωπική τους ανάλυση κόστους/ωφέλειας: θα τους γλιτώσει κάποιο χρόνο αυτή η καινοτομία; Ένας τρίτος λόγος είναι πως εμπνέονται από παραδείγματα προς μίμηση --- και πάλι όμως, αυτό έχει μεγάλη επίδραση για τις καινοτομίες που στοχεύουν στη βελτίωση της αφοσίωσης και της παρακίνησης παρά στα μαθησιακά αποτελέσματα--- και ένας τέταρτος λόγος είναι οι αξιόπιστες πηγές, π.χ. άνθρωποι που συναντούν σε συνέδρια, οι οποίοι είναι στην ίδια κατάσταση, και οι οποίοι αναφέρουν κάποια επιτυχή υιοθέτηση.
 
-1. *Why do they keep using them?* As [[Bark2015](#CITE)] says, "Student
-   feedback is critical," and is often the strongest reason to continue
-   using a practice, even though we know that students' self-reports
-   don't correlate strongly with learning outcomes. (Note that student
-   attendance in lectures is seen as an indicator of engagement.)
-   Another reason to retaining a practice is institutional
-   requirements, although if this is the motivation, people will often
-   drop the practice and regress to whatever they were doing before
-   when the explicit incentive or monitoring is removed.
+ Οι καθηγητές όμως είχαν κάποιους προβληματισμούς, και για αυτούς τους προβληματισμούς συχνά δεν έβρισκαν απαντήσεις από τους ανθρώπους που υποστήριζαν τις αλλαγές. Ο πρώτος ήταν ο νόμος του Glass: Κάθε νέο εργαλείο ή νέα πρακτική στην αρχή προκαλεί επιβράδυνση. Ένας άλλος είναι πως η πραγματικότητα της χωροθέτησης των αιθουσών δυσχεραίνει πολλές νέες πρακτικές: δεν μπορούν να λειτουργήσουν ομάδες συζητήσεων σε αμφιθέατρα.
 
-The good news is, you can tackle these problems systematically.
-[[Baue2015](#CITE)] looked at adoption of new medical
-techniques within the US Veterans Administration. They found that
-evidence-based practices in medicine take an average of 17 years to be
-incorporated into routine general practice, and that only about half
-of such practices are ever widely adopted. This depressing finding and
-others like it spurred the growth of [implementation
-science](#g:implementation-science), which is the
-scientific study of ways to get people to actually adopt better
-evidence-based practices.
+   Όμως το πιο αποκαλυπτικό αποτέλεσμα ήταν αυτό: «Παρόλο που οι καθηγητές ήταν οι ίδιοι και ερευνητές, οι καθηγητές της επιστήμης των υπολογιστών στους οποίους μιλήσαμε ως επί το πλείστον δεν πιστεύανε πως τα αποτελέσματα των εκπαιδευτικών μελετών αποτελούσαν αξιόπιστες πηγές ώστε να τα δοκιμάσουνε ως πρακτικές διδασκαλίας». Αυτό έρχεται σε συμφωνία με τα υπόλοιπα ευρήματα: ακόμα και οι άνθρωποι των οποίων ολόκληρες οι καριέρες είναι ταγμένες στην έρευνα, θα αδιαφορήσουν για την έρευνα της εκπαίδευσης. 
 
-As [s:community](#CHAPTER) said, the starting point is to find out what
-the people you're trying to help believe they need. For example,
-[[Yada2016](#CITE)] summarizes feedback from K-12 teachers on the
-preparation and support they want; while it may not all be applicable to
-your setting, having a cup of tea with a few people and listening before
-you speak can make a world of difference.
+1. *Γιατί συνεχίζουν να τις χρησιμοποιούν;* Όπως περιγράφουν οι [[Bark2015](#CITE)], «Η ανατροφοδότηση από τους φοιτητές είναι κρίσιμη», και είναι συχνά ο πιο σημαντικός λόγος για να συνεχιστεί μία πρακτική, ακόμα και αν γνωρίζουμε πως οι αναφορές των φοιτητών δεν συσχετίζονται σημαντικά με τα μαθησιακά αποτελέσματα. (Σημειώστε πως η παρακολούθηση των διαλέξεων από τους φοιτητές θεωρείται ως ένας δείκτης αφοσίωσης).
+Ένας άλλος λόγος για τον οποίο διατηρείται η πρακτική είναι οι απαιτήσεις του ιδρύματος, παρόλο που αν αυτός είναι ο κύριος λόγος, οι άνθρωποι συχνά θα παρατήσουν την πρακτική και θα επιστρέψουν σε ότι κάνανε προηγουμένως μόλις εκλείψει το κίνητρο ή η παρακολούθηση τους.
 
-Once you know what people need, the next step is to make changes
-incrementally, within institutions' own frameworks. [[Nara2018](#CITE)]
-describes an intensive three-year bachelor's program based on tight-knit
-cohorts and administrative support that tripled graduation rates.
-Elsewhere, [[Hu2017](#CITE)] describes impact of introducing a six-month
-certification program for existing high school teachers who want to
-teach computing (as opposed to the older two-year/five-course program).
-The number of computing teachers had been stable from 2007 to 2013, but
-quadrupled after introduction of the new certification program, without
-diluting quality: new-to-computing teachers seemed to be as effective as
-teachers with more computing training at teaching the introductory
-Exploring Computer Science course. The authors report, "How much CS
-content students self-reported learning in ECS appears to be based on
-how much they believed they knew before taking ECS, and appears to have
-no correlation to their teacher's CS background."
 
-More broadly, [[Borr2014](#CITE)] categorizes ways to make change happen
-in higher education. The categories are defined by whether the change is
-individual or to the system as a whole, and whether it is prescribed
-(top-down) or emergent (bottom-up). The person trying to make the
-changes---and make them stick---has a different role in each situation, and
-should pursue different strategies accordingly.
+Τα καλά νέα είναι πως μπορείτε να αντιμετωπίσετε αυτά τα προβλήματα συστηματικά, οι [[Baue2015](#CITE)] εξέτασαν την υιοθέτηση νέων ιατρικών τεχνικών από τη Διοίκηση των Βετεράνων των ΗΠΑ. Βρήκαν πως οι πρακτικές που στηρίζονται σε αποδείξεις στην ιατρική χρειάζονται κατά μέσο όρο 17 έτη για να ενσωματωθούν στην καθημερινή γενική πρακτική, και πως μόνο σχεδόν οι μισές από αυτές υιοθετούνται ευρέως. Αυτό το στενάχωρο εύρημα και άλλα τέτοια παρόμοια ευρήματα ώθησαν την ανάπτυξη της [επιστήμης της εφαρμογής](#g:επιστήμη-της-εφαρμογής), η οποία είναι η επιστημονική μελέτη των τρόπων με τους οποίους μπορούμε να πείσουμε τους ανθρώπους να υιοθετούν πραγματικά βελτιωμένες πρακτικές οι οποίες στηρίζονται σε αποδείξεις.
 
-The paper goes on to explain each of the methods in detail, while
-[[Hend2015a](#CITE),[Hend2015b](#CITE)] present the same ideas in more actionable
-form. Coming in from outside, you will probably fall into the
-Individual/Emergent category to start with, since you will be
-approaching teachers one by one and trying to make change happen
-bottom-up. If this is the case, the strategies Borrego and Henderson
-recommend center around having teachers reflect on their teaching
-individually or in groups. Since they may know more about teaching than
-you do, this often comes down to doing live coding sessions with them so
-that they know how to program themselves, and to demonstrate whatever
-curriculum you may already have.
+Όπως αναφέραμε στο κεφάλαιο [s:community](#CHAPTER), το σημείο εκκίνησης είναι να ανακαλύψουμε τι πιστεύουν πως χρειάζονται οι άνθρωποι που προσπαθούμε να βοηθήσουμε. Για παράδειγμα, ο [[Yada2016](#CITE)] συνοψίζει τα σχόλια από δασκάλους της πρωτοβάθμιας και της δευτεροβάθμιας εκπαίδευσης σχετικά με την προετοιμασία και την υποστήριξη που αυτοί επιθυμούν: αν και μπορεί να μην ταιριάζουν όλα στην περίπτωση σας, το να πιείτε έναν καφέ με κάποιους ανθρώπους και να τους ακούσετε πριν να μιλήσετε, μπορεί να κάνει τεράστια διαφορά.
 
-## Working Outside Schools {#s:partner-outside}
+Μόλις μάθετε τι χρειάζονται οι άνθρωποι, το επόμενο βήμα είναι να κάνετε αλλαγές σταδιακά, μέσα στα πλαίσια του ίδιου του ιδρύματος. Οι [[Nara2018](#CITE)] περιγράφουν ένα εντατικό προπτυχιακό πρόγραμμα σπουδών τριών ετών βασισμένο σε σφιχτά δεμένους κύκλους και σε διοικητική υποστήριξη το οποίο είχε τριπλάσιους δείκτες αποφοίτησης. Αλλού, οι [[Hu2017](#CITE)] περιγράφουν την επίδραση της εισαγωγής ενός εξάμηνου προγράμματος πιστοποίησης για καθηγητές δευτεροβάθμιας εκπαίδευσης οι οποίοι επιθυμούν να διδάξουν πληροφορική (αντίθετα με το παλαιότερο διετές πρόγραμμα πέντε μαθημάτων).
+Ο αριθμός των καθηγητών πληροφορικής παρέμεινε σταθερός από το 2007 μέχρι το 2013, αλλά τετραπλασιάστηκε μετά την εισαγωγή του νέου προγράμματος πιστοποίησης, χωρίς θα θιχτεί η ποιότητα: οι νέοι στην πληροφορική καθηγητές φάνηκαν να είναι το ίδιο αποτελεσματικοί με τους καθηγητές που είχαν μεγαλύτερη κατάρτιση στην πληροφορική κατά τη διδασκαλία του εισαγωγικού μαθήματος της πληροφορικής. Οι συγγραφείς αναφέρουν, «Το μέγεθος του περιεχομένου σχετικού με την πληροφορική που αναφέρουν πως μαθαίνουν οι μαθητές σε αυτό το εισαγωγικό μάθημα φαίνεται να εξαρτάται από το πόσα αυτοί πιστεύαν πως γνώριζαν πριν να παρακολουθήσουν το μάθημα, και φαίνεται πως δεν συσχετίζεται με την εμπειρία των καθηγητών τους στην πληροφορική.»
 
-Schools and universities aren't the only places people go to learn
-programming; over the past few years, a growing number have turned to
-intensive bootcamp programs. These are typically one to six months long,
-run by private firms for profit, and target people who are retraining to
-get into tech. Some are very high quality, but others exist primarily to
-separate people (often from low-income backgrounds) from their money
-[[McMi2017](#CITE)].
+Γενικότερα, οι [[Borr2014](#CITE)] ταξινομούν τους τρόπους με τους οποίους μπορούν να συμβούν οι αλλαγές στην ανώτατη εκπαίδευση. Οι κατηγορίες καθορίζονται από το αν η αλλαγή είναι ατομική ή αφορά στο σύνολο του συστήματος, και αν αυτή υπαγορεύτηκε (από την κορυφή προς τα κάτω) ή προέκυψε (από τη βάση προς τα πάνω). Το άτομο που προσπαθεί να κάνει τις αλλαγές---και να τις διατηρήσει---έχει διαφορετικό ρόλο σε κάθε περίσταση και πρέπει αντίστοιχα να επιδιώκει διαφορετικές στρατηγικές.
 
-[[Thay2017](#CITE)] interviewed 26 alumni of such bootcamps that provide
-a second chance for those who missed computing education opportunities
-earlier (though the authors phrasing this as "missed earlier
-opportunities" makes some pretty big assumptions when it comes to people
-from underrepresented groups). Bootcamp students face great personal
-costs and risks: significant time, money, and effort spent before,
-during, and after bootcamps, and career change could take students a
-year or more. Several interviewees felt that their certificates were
-looked down on by employers; as some said, getting a job means passing
-an interview, but interviewers often won't share their reasons for
-rejection, so it's hard to know what to fix or what else to learn. Many
-resorted to internships (paid or otherwise) and spent a lot of time
-building their portfolios and networking. The three informal barriers
-they most clearly identified were knowledge (or rather, jargon),
-impostor syndrome, and a sense of not fitting in.
+Το άρθρο συνεχίζει εξηγώντας την κάθε μέθοδο με λεπτομέρειες, ενώ οι [[Hend2015a](#CITE),[Hend2015b](#CITE)] παρουσιάζουν τις ίδιες ιδέες με μία πολύ περισσότερο πραγματοποιήσιμη μορφή. Όταν έρχεστε απ’ έξω, πιθανότατα θα ταξινομηθείτε στην κατηγορία Ατομική/Υπαγορευμένη για αρχή, αφού θα προσεγγίζετε τους καθηγητές έναν-έναν και θα προσπαθείτε να κάνετε τις αλλαγές από τη βάση προς τα πάνω. Αν συμβαίνει αυτό, οι στρατηγικές που προτείνουν οι Borrego και Henderson επικεντρώνουν γύρω από το να βάλουμε τους καθηγητές να σκεφτούν για τη διδασκαλία τους, μόνοι τους ή σε ομάδες. Από τη στιγμή που μπορεί να γνωρίζουν περισσότερα για τη διδασκαλία από εσάς, η κατάληξη είναι συχνά να γίνονται συναντήσεις για την επιτόπου κωδικοποίηση ώστε να μάθουν πως να προγραμματίζουν τους εαυτούς τους, και να τους δείξετε κάποιο πρόγραμμα μαθημάτων που πιθανόν θα έχετε έτοιμο. 
 
-[[Burk2018](#CITE)] dug into this a bit deeper by comparing the skills
-and credentials that tech industry recruiters are looking for to those
-provided by 4-year degrees and bootcamps. They interviewed 15 hiring
-managers from firms of various sizes and ran some focus groups, and
-found that recruiters uniformly emphasized soft skills (especially
-teamwork, communication, and the ability to continue learning). Many
-companies required a 4-year degree (though not necessarily in computer
-science), but many also praised bootcamp graduates for being older or
-more mature and having more up-to-date knowledge.
+## Εργασία Έξω Από Τα Σχολεία {#s:partner-outside}
 
-If you are approaching one of these groups, your best strategy could
-well be to emphasize what you know about teaching rather than what you
-know about tech, since many of their founders and staff have programming
-backgrounds but little or no training in education. The first few
-chapters of this book have played well with this audience in the past,
-and [[Lang2016](#CITE)] describes evidence-based teaching practices that
-can be put in place with minimal effort and at low cost. These may not
-have the most impact, but scoring a few early wins helps build support
-for larger and riskier efforts.
+Τα σχολεία και τα πανεπιστήμια δεν είναι τα μόνα μέρη που οι άνθρωποι πηγαίνουν για να μάθουν προγραμματισμό. Τα τελευταία χρόνια, ένα ολοένα αυξανόμενο πλήθος έχει στραφεί σε εντατικά προγράμματα εκπαίδευσης. Αυτά συνήθως διαρκούν από έναν έως έξι μήνες, τα λειτουργούν ιδιωτικές κερδοσκοπικές εταιρείες, και στοχεύουν σε ανθρώπους που επανεκπαιδεύονται για να ασχοληθούν με τις τεχνολογίες. Κάποια από αυτούς έχουν ιδιαίτερα υψηλή ποιότητα, αλλά κάποια άλλα υπάρχουν κυρίως για αποκομίσουν τα λεφτά από ανθρώπους (συχνά από τάξεις με χαμηλά εισοδήματα) [[McMi2017](#CITE)].
 
-## Final Thoughts {#s:partner-final}
+Οι [[Thay2017](#CITE)] πήραν συνεντεύξεις από 26 αποφοίτους τέτοιων προγραμμάτων εκπαίδευσης τα οποία παρέχουν μία δεύτερη ευκαιρία για όσους δεν είχαν προηγουμένως ευκαιρίες να εκπαιδευτούν στην πληροφορική (αν και το γεγονός πως οι συγγραφείς αποκαλούν αυτήν την κατάσταση «δεν είχαν προηγούμενες ευκαιρίες», μας οδηγεί να υποθέσουμε διάφορα πράγματα όταν πρόκειται για ανθρώπους από περιθωριακές κοινωνικές ομάδες). Οι μαθητές των προγραμμάτων εκπαίδευσης έρχονται αντιμέτωποι με μεγάλα προσωπικά κόστη και κινδύνους: σπαταλούν σημαντικό χρόνο, χρήμα, και προσπάθεια πριν, κατά τη διάρκεια, και κατόπιν των προγραμμάτων, και η αλλαγή στη σταδιοδρομία τους μπορεί να χρειαστεί ένα έτος ή και περισσότερο. Αρκετοί συνεντεύκτες ένιωσαν πως τα πιστοποιητικά τους υποτιμήθηκαν από τους εργοδότες, όπως είπε κάποιος, το να πάρεις μία δουλειά σημαίνει πως πρέπει να περάσεις μία συνέντευξη, αλλά αυτοί που σου παίρνουν τη συνέντευξη συχνά δεν εξηγούν τους λόγους απόρριψης, οπότε είναι δύσκολο να γνωρίζεις τι πρέπει να διορθώσεις ή τι άλλο πρέπει να μάθεις. Πολλοί κατέφυγαν σε πρακτική άσκηση (με αμοιβή ή χωρίς) και ξόδεψαν αρκετό χρόνο εμπλουτίζοντας τα χαρτοφυλάκια τους και τις γνωριμίες τους. Τα τρία άτυπα εμπόδια που αναγνωρίστηκαν πιο καθαρά ήταν η γνώση (ή μάλλον η τεχνική φρασεολογία), το σύνδρομο του απατεώνα, και μία αίσθηση πως δεν ταιριάζουν.
 
-It is impossible to change large institutions on your own: you need
-allies, and to get allies, you need tactics. The most useful guide I
-have found is [[Mann2015](#CITE)], which catalogs more than four dozen
-methods you can use, and organizes them according to whether they're
-best deployed early on, later, throughout the change cycle, or when you
-encounter resistance. A handful of their patterns include:
+Οι [[Burk2018](#CITE)] έψαξαν για αυτό λίγο περισσότερο συγκρίνοντας τις δεξιότητες και τα πιστοποιητικά που αναζητούν οι υπεύθυνοι πρόσληψης προσωπικού στη βιομηχανία τεχνολογιών ανάμεσα σε αυτούς που έχουν κάποιο πτυχίο ανώτατης εκπαίδευσης ή έχουν παρακολουθήσει κάποιο εκπαιδευτικό πρόγραμμα. Πήραν συνεντεύξεις από 15 στελέχη προσλήψεων από εταιρείες διαφόρων μεγεθών και δημιούργησαν κάποιες ομάδες εστίασης, και βρήκαν πως τα στελέχη προσλήψεων δίνουν όλα με τον ίδιο τρόπο έμφαση στις κοινωνικές δεξιότητες (ειδικά στη συνεργασία, στην επικοινωνία, και στην ικανότητα συνεχιζόμενης μάθησης). Πολλές εταιρίες απαιτούσαν κάποιο πτυχίο ανώτατης εκπαίδευσης (αν και όχι απαραίτητα στην πληροφορική), αλλά πολλές δεχόταν επίσης και τους αποφοίτους εκπαιδευτικών προγραμμάτων επειδή ήταν μεγαλύτεροι σε ηλικία ή πιο ώριμοι και επειδή οι γνώσεις τους ήταν περισσότερο επικαιροποιημένες.
 
-Small Successes:
-: To avoid becoming overwhelmed by the exercises and all the things
-  you have to do when you're involved in an organizational change
-  effort, celebrate even small successes.
+Αν προσεγγίζετε μία από αυτές τις ομάδες, η καλύτερη στρατηγική θα μπορούσε να είναι η έμφαση σε αυτά που ξέρετε για τη διδασκαλία παρά σε αυτά που ξέρετε για την τεχνολογία, αφού πολλοί από τους ιδρυτές τους και το προσωπικό τους έχουν γνώσεις πληροφορικής αλλά λίγες γνώσεις ή μηδενική κατάρτιση στην εκπαίδευση. Τα πρώτα κεφάλαια αυτού του βιβλίου ασχολήθηκαν αρκετά με αυτό το ακροατήριο στο παρελθόν, και οι [[Lang2016](#CITE)] περιγράφουν τεχνικές διδασκαλίες βασισμένες σε αποδείξεις οι οποίες μπορούν να εφαρμοστούν με ελάχιστη προσπάθεια και με μικρό κόστος. Αυτές μπορεί να μην έχουν τη μεγαλύτερη επίδραση, αλλά η πραγματοποίηση μερικών εύκολων και γρήγορων επιτυχιών βοηθά στο να στηριχτούν οι μεγαλύτερες και οι περισσότεροι ριψοκίνδυνες προσπάθειες.
 
-In Your Space:
-: Keep the new idea visible by placing reminders throughout the
-  organization.
+## Τελικές Σκέψεις {#s:partner-final}
 
-Token:
-: To keep a new idea alive in a person's memory, hand out tokens that
-  can be identified with the topic being introduced.
+Είναι αδύνατον να αλλάξετε μεγάλους οργανισμούς από μόνοι σας: Χρειάζεστε συμμάχους, και για να αποκτήσετε συμμάχους, χρειάζεστε τακτική. Ο πλέον χρήσιμος οδηγός που έχω βρει είναι ο [[Mann2015](#CITE)], ο οποίος καταγράφει περισσότερες από τέσσερις ντουζίνες μεθόδους που μπορούν να αξιοποιηθούν στην αρχή, στο τέλος, ή κατά τη διάρκεια του κύκλου της αλλαγής, ή όταν προκύπτει κάποια αντίσταση. Μερικές από τις τακτικές είναι:
 
-Champion Skeptic:
-: Ask strong opinion leaders who are skeptical of your new idea to
-  play the role of "official skeptic". Use their comments to improve
-  your effort, even if you don't change their minds.
+Μικρές Επιτυχίες:
+: Για να αποφύγετε να σας καταβάλουν οι ασκήσεις και όλα αυτά τα πράγματα που πρέπει να κάνετε όσο ασχολείστε με μία προσπάθεια αλλαγής του οργανισμού, πανηγυρίστε ακόμα και τις μικρές επιτυχίες.
 
-Conversely, [[Farm2006](#CITE)] has ten tongue-in-cheek rules for
-ensuring that a new tool isn't adopted, all of which apply to new
-teaching practices as well:
 
-1. Make it optional.
+Στον Χώρο Σας:
+: Κρατήστε ορατή την νέα ιδέα τοποθετώντας υπενθυμίσεις σε όλο τον οργανισμό.
 
-1. Economize on training.
 
-1. Don't use it in a real project.
+Σύμβολα:
+: Για να κρατήσετε μία νέα ιδέα ζωντανή στη μνήμη κάποιου ατόμου, μοιράστε κάποια σύμβολα τα οποία μπορούν να συνδυαστούν με την εισαγωγή του θέματος.
 
-1. Never integrate it.
 
-1. Use it sporadically.
+Υποστηρίξτε τους επιφυλακτικούς:
+: Ζητήστε από άτομα που επηρεάζουν ισχυρά τις γνώμες και τα οποία είναι επιφυλακτικά απέναντι στην νέα ιδέα σας να παίξουν τον ρόλο του «επίσημα επιφυλακτικού προσώπου». Αξιοποιήστε τα σχόλια τους για να βελτιώσετε την προσπάθεια σας, ακόμα και δεν αλλάξετε τη γνώμη τους.
 
-1. Make it part of a quality initiative.
 
-1. Marginalize the champion.
+Αντίθετα, οι [[Farm2006](#CITE)] προτείνουν χαριτολογώντας δέκα κανόνες για να διασφαλίσετε πως ένα νέο εργαλείο δεν θα υιοθετηθεί, οι οποίοι μπορούν να εφαρμοστούν όλοι και στις νέες πρακτικές διδασκαλίας:
 
-1. Capitalize on early missteps.
+1.	Κάντε το προαιρετικό
+1.	Κάνετε οικονομία στην κατάρτιση.
+1.	Μην το χρησιμοποιείτε σε κάποιο πραγματικό έργο
+1.	Ποτέ μην το ενσωματώσετε.
+1.	Χρησιμοποιείστε το σποραδικά
+1.	Κάντε το μέρος μιας πρωτοβουλίας πιστοποίησης ποιότητας.
+1.	Περιθωριοποιήστε όσους το υποστηρίζουν.
+1.	Αξιοποιήστε τα αρχικά σφάλματα.
+1.	Επενδύστε λίγα.
+1.	Αξιοποιήστε το φόβο, την αβεβαιότητα, την αμφιβολία, την οκνηρία, και την αδράνεια.
 
-1. Make a small investment.
 
-1. Exploit fear, uncertainty, doubt, laziness, and inertia.
+Η πιο σημαντική στρατηγική είναι να είστε πρόθυμοι να αλλάξετε τους στόχους σας με βάση όσα μαθαίνετε από τους ανθρώπους που προσπαθείτε να βοηθήσετε. Θα μπορούσε να συμβεί τα εγχειρίδια που τους δείχνουν πως να χρησιμοποιούν τα λογιστικά φύλλα να τους βοηθήσουν πιο γρήγορα και πιο αξιόπιστα από ότι μία εισαγωγή στη JavaScript. Έχω κάνει συχνά το λάθος να μπερδεύω τα πράγματα για τα οποία ήμουνα παθιασμένος με τα πράγματα τα οποία θα έπρεπε να γνωρίζουν άλλοι άνθρωποι. Αν θέλετε πραγματικά να είστε ένας συνεργάτης, να θυμάστε πάντοτε πως η μάθηση και η αλλαγή πρέπει να συμβαίνουν αμφίδρομα.
 
-The most important strategy is to be willing to change your goals based
-on what you learn from the people you are trying to help. It could well
-be that tutorials showing them how to use a spreadsheet will help them
-more quickly and more reliably than an introduction to JavaScript. I
-have often made the mistake of confusing things I was passionate about
-with things that other people ought to know; if you truly want to be a
-partner, always remember that learning and change have to go both ways.
+## Ασκήσεις {#s:partner-exercises}
 
-## Exercises {#s:partner-exercises}
+### Ομαδικές (μικρές ομάδες/30)
 
-### Collaborations (small groups/30)
 
-Answer the following questions on your own, and then compare your
-answers to those given by other members of your group.
+Απαντήστε τις ακόλουθες ερωτήσεις μόνος σας και στη συνέχεια συγκρίνατε τις απαντήσεις σας με αυτές που έδωσαν τα υπόλοιπα μέλη της ομάδας σας.
 
-1. Do you have any agreements or relationships with other groups?
+1.	Έχετε κάποιες συμφωνίες ή σχέσεις με άλλες ομάδες;
+1.	Θέλετε να έχετε σχέσεις με κάποια από τις υπόλοιπες ομάδες;
+1.	Πως θα σας βοηθούσαν οι συνεργασίες (ή οι μη-συνεργασίες) με άλλες ομάδες στο να καταφέρετε τους στόχους σας;
+1.	Ποιες είναι οι κρίσιμες σχέσεις συνεργασίας σας;
+1.	Είναι αυτοί οι σωστοί συνεργάτες για να πετύχετε τους στόχους σας;
+1.	Με ποιες ομάδες ή άτομα θα θέλατε να έχει συμφωνίες ή σχέσεις ο οργανισμός σας;
 
-1. Do you want to have relationships with any other groups?
 
-1. How would having (or not having) collaborations help you to achieve
-   your goals?
+### Εκπαιδευτικοποίηση (ολόκληρη η τάξη/10)
 
-1. What are your key collaborative relationships?
 
-1. Are these the right collaborators for achieving your goals?
+Οι [[Laba2008](#CITE)] διερευνούν γιατί οι ΗΠΑ και άλλα κράτη συνεχίσουν να προωθούν τη λύση των κοινωνικών προβλημάτων μέσα στους εκπαιδευτικούς οργανισμούς, και γιατί αυτό συνεχίζει να μην δουλεύει. Όπως επισημαίνει, «[η Εκπαίδευση] έχει κάνει πολύ λίγα για την προώθηση της φυλετικής ισότητας, της ισότητας ανάμεσα στις τάξεις και τα φύλα, για την ενίσχυση της δημόσια υγείας, της παραγωγικότητας της οικονομίας, της ορθής συμπεριφοράς των πολιτών, ή για τη μείωση των περιστατικών σεξ κατά την εφηβεία, των θανάτων από τροχαία, της παχυσαρκίας, και της περιβαλλοντολογικής καταστροφής. Στην πραγματικότητα, είχε αρνητική επίδραση σε αυτά τα προβλήματα με πολλούς τρόπους, στερώντας πόρους και ενέργεια από κοινωνικές μεταρρυθμίσεις που ίσως είχαν περισσότερο ουσιαστικές επιπτώσεις». Συνεχίζουν γράφοντας:
 
-1. With what groups or entities would you like your organization to
-   have agreements or relationships?
+> Οπότε πως μπορούμε να δούμε την επιτυχία αυτού του θεσμού με δεδομένη την αποτυχία του να κάνει αυτό που του ζητήσαμε;
+> Ένας τρόπος να τη δούμε είναι πως η εκπαίδευση μπορεί να μην κάνει αυτό που της ζητάμε, αλλά κάνει αυτό που θέλουμε.
+> Θέλουμε έναν θεσμό που να επιδιώκει τους κοινωνικούς μας στόχους με τέτοιον τρόπο ώστε να ευθυγραμμίζεται
+> με τον ατομικισμό στην καρδιά του φιλελεύθερου ιδεώδους, σκοπεύοντας να επιλύσει κοινωνικά προβλήματα αναζητώντας
+> να αλλάξει τις καρδιές, τα μυαλά, και τις ικανότητες του κάθε μεμονωμένου μαθητή. Ένας άλλος τρόπος να για τη δούμε,
+> είναι πως θέλουμε έναν θεσμό μέσα από τον οποίο μπορούμε να εκφράσουμε τους κοινωνικούς μας στόχους χωρίς να παραβιάζεται
+> η αρχή της ατομικής επιλογής που βρίσκεται στον πυρήνα της κοινωνικής δομής, ακόμα και αυτό έχει το κόστος της αποτυχίας
+> της επίτευξης αυτών των στόχων. Έτσι η εκπαίδευση μπορεί να εξυπηρετήσει ως ένα σημείο αστικής υπερηφάνειας,
+> μία βιτρίνα για τις ιδέες μας, και ένα μέσο για να αφοσιωθούμε σε εμψυχωτικές αλλά εν τέλει επουσιώδεις αντιπαραθέσεις
+> για τα εναλλακτικά οράματα της καλής ζωής. Ταυτόχρονα, μπορεί να εξυπηρετήσεις επίσης ως ένας βολικός αποδιοπομπαίος
+> τράγος τον οποίο μπορούμε να > κατηγορήσουμε για την αποτυχία του να κατορθώσει τις μεγαλύτερες προσδοκίες για 
+> τους εαυτούς μας ως κοινωνία.
 
-### Educationalization (whole class/10)
+Πως ταιριάζουν στο παραπάνω πλαίσιο οι προσπάθειες να διδάξουμε τον υπολογιστικό τρόπος σκέψης (computational thinking) και την αγωγή του ψηφιακού πολίτη (digital citizenship)  στα σχολεία;
 
-[[Laba2008](#CITE)] explores why the United States and other countries
-keep pushing the solution of social problems onto educational
-institutions, and why that continues not to work. As he points out,
-"[Education] has done very little to promote equality of race,
-class, and gender; to enhance public health, economic productivity, and
-good citizenship; or to reduce teenage sex, traffic deaths, obesity, and
-environmental destruction. In fact, in many ways it has had a negative
-effect on these problems by draining money and energy away from social
-reforms that might have had a more substantial impact." He goes on to
-write:
+### Υιοθέτηση Από Ιδρύματα (Ολόκληρη η τάξη/15)
 
-> So how are we to understand the success of this institution in light
-> of its failure to do what we asked of it? One way of thinking about
-> this is that education may not be doing what we ask, but it is doing
-> what we want. We want an institution that will pursue our social goals
-> in a way that is in line with the individualism at the heart of the
-> liberal ideal, aiming to solve social problems by seeking to change
-> the hearts, minds, and capacities of individual students. Another way
-> of putting this is that we want an institution through which we can
-> express our social goals without violating the principle of individual
-> choice that lies at the center of the social structure, even if this
-> comes at the cost of failing to achieve these goals. So education can
-> serve as a point of civic pride, a showplace for our ideals, and a
-> medium for engaging in uplifting but ultimately inconsequential
-> disputes about alternative visions of the good life. At the same time,
-> it can also serve as a convenient whipping boy that we can blame for
-> its failure to achieve our highest aspirations for ourselves as a
-> society.
 
-How do efforts to teach computational thinking and digital citizenship
-in schools fit into this framework?
+Ξαναδιαβάστε τη λίστα με τα κίνητρα προς υιοθέτηση νέων πρακτικών που παρουσιάζεται στην ενότητα [s:partner-schools](#SECTION). Ποια από αυτά αφορούν εσάς και τους συναδέλφους σας; Ποια από αυτά δεν ταιριάζουν στο δικό σας πλαίσιο; Σε ποια θα δίνατε μεγαλύτερη έμφαση αν και όταν αλληλεπιδράσετε με άτομα που εργάζονται σε θεσμοθετημένους εκπαιδευτικούς οργανισμούς;
 
-### Institutional Adoption (whole class/15)
+### Κάντε Το να Αποτύχει (μικρές ομάδες/15)
 
-Re-read the list of motivations to adopt new practices given in
-[s:partner-schools](#SECTION). Which of these apply to you and your
-colleagues? Which are irrelevant to your context? Which do you emphasize
-if and when you interact with people working in formal educational
-institutions?
 
-### Making It Fail (small groups/15)
+Δουλεύοντας σε μικρές ομάδες, ξαναδιαβάστε τη λίστα με τους τρόπους που εξασφαλίζουν πως τα νέα εργαλεία δεν θα υιοθετηθούν οι οποίοι παρουσιάζονται στην ενότητα [s:partner-final](#SECTION). Ποιους από αυτούς έχετε παρατηρήσει πρόσφατα; Ποιους έχετε πραγματοποιήσει ο ίδιος; Ποια μορφή είχαν;
 
-Working in small groups, re-read the list of ways to ensure new tools
-aren't adopted given in [s:partner-final](#SECTION). Which of these
-have you seen done recently? Which have you done yourself? What form did
-they take?
+### Καθοδήγηση (Ολόκληρη η τάξη/15)
 
-### Mentoring (whole class/15)
 
-The Institute for African-American Mentoring in Computer Science has
-published a brief set of guidelines for mentoring doctoral students,
-which you can download from <http://iaamcs.org/guidelines>. Take a few
-minutes to read the guidelines individually, and then go through them as
-a class and rate your efforts for your own group as +1 (definitely
-doing), -1 (definitely not doing), and 0 (not sure or not applicable).
+Το Ινστιτούτο για την Καθοδήγηση Άφρο-Αμερικανών στην Επιστήμη των Υπολογιστών (Institute for African-American Mentoring in Computer Science) έχει δημοσιεύσει ένα σύντομο σύνολο από οδηγίες για την καθοδήγηση των διδακτορικών φοιτητών, το οποίο μπορείτε να κατεβάσετε από τη διεύθυνση <http://iaamcs.org/guidelines>. Ξοδέψτε μερικά λεπτά για να διαβάσετε τις οδηγίες μόνος σας, και στη συνέχεια δείτε τις όλοι μαζί ως τάξη και βαθμολογήστε τις απόψεις της ομάδας σας ως εξής: +1 (σίγουρα θα το έκανα), -1 (σίγουρα δεν θα το έκανα), και 0 (δεν είμαι σίγουρος ή δεν με αφορά).
 
 {% include links.md %}
