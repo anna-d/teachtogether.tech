@@ -1,451 +1,455 @@
 ---
 permalink: "/el/memory/"
-title: "Expertise and Memory"
+title: "Εμπειρία και Μνήμη"
 objectives:
-- Define expertise and explain how it works using a graph metaphor
-  for cognition.
-- Explain the difference between repetition and deliberate practice.
-- Define and construct concept maps, and explain the benefits of
-  externalizing cognition.
-- Differentiate long-term and short-term memory, describe the
-  capacity limits of the latter, and explain the impact of these
-  limits on teaching.
+- Να ορίσετε την εμπειρία και να εξηγήσετε πως λειτουργεί
+  αναπαριστώντας μεταφορικά τη νόηση ως γράφο (cognition).
+- Να εξηγήσετε τη διαφορά μεταξύ επανάληψης και προμελετημένης πρακτικής.
+- Να καθορίσετε και να κατασκευάσετε εννοιολογικούς χάρτες (concept maps)
+  και να εξηγήσετε τα οφέλη της εξωτερίκευσης της νόησης.
+- Να διαφοροποιήσετε τη μακροπρόθεσμη από τη βραχυπρόθεσμη μνήμη, να
+  περιγράψετε τα όρια χωρητικότητας της τελευταίας και τις επιπτώσεις
+  αυτών των ορίων στη διδασκαλία.
 ---
 
-> Memory is the residue of thought.
+> Η μνήμη είναι το υπόλοιπο της σκέψης.
 >
 > --- Dan Willingham
 
-The previous chapter explained what distinguishes novices from competent
-practitioners. This one looks at expertise: what it is, how people
-acquire it, and how it can be harmful as well as helpful. It then shows
-how concept maps can be used to figure out how to turn knowledge into
-lessons.
+Το προηγούμενο κεφάλαιο εξήγησε το τι διαφοροποιεί τους αρχάριους από τους
+ικανούς επαγγελματίες. Το παρόν εξετάζει την εμπειρία: τι είναι, πως την
+αποκτούν οι άνθρωποι και πως μπορεί να είναι επιβλαβής όσο και εξυπηρετική. Στη
+συνέχεια, δείχνει πως οι εννοιολογικοί χάρτες μπορούν να χρησιμοποιηθούν στο να
+καταλάβει και να βρει κανείς πως θα μετατρέψει τη γνώση σε μαθήματα.
 
-To start, what do we mean when we say someone is an expert? The usual
-answer is that they can solve problems much faster than people who are
-"merely competent", or that they can recognize and deal with cases
-where the normal rules don't apply. They also somehow make this look
-effortless: in many cases, they instantly know what the right answer is
-[[Parn2017](#CITE)].
+Για αρχή, τι εννοούμε όταν λέμε ότι κάποιοι είναι ειδικοί; Η συνηθισμένη
+απάντηση είναι ότι μπορούν να λύσουν προβλήματα πολύ ταχύτερα από τους
+ανθρώπους που είναι "απλώς ικανοί", ή ότι μπορούν να αναγνωρίσουν και να
+εξετάσουν υποθέσεις όπου δεν ισχύουν οι συνήθεις κανόνες. Κατά κάποιο τρόπο το
+κάνουν να μοιάζει σαν κάτι που δεν απαιτεί κόπο: σε πολλές περιπτώσεις, ξέρουν
+αμέσως ποια είναι η σωστή απάντηση [[Parn2017](#CITE)].
 
-Expertise is more than just knowing more facts: competent practitioners
-can memorize a lot of trivia without any noticeable improvement in their
-performance. Instead, imagine for a moment that we store knowledge as a
-network or graph in which facts are nodes and relationships are arcs.
-(This is definitely *not* how our brains work, but it's a useful
-metaphor.) The key difference between experts and competent
-practitioners is that experts' mental models are much more densely
-connected, i.e., they are much more likely to know of a connection
-between any two randomly-selected pieces of information.
+Η εξειδίκευση είναι κάτι παραπάνω από το να γνωρίζει κάποιος περισσότερα
+δεδομένα: οι ικανοί επαγγελματίες μπορούν να απομνημονεύσουν πολλά ασήμαντα
+πράγματα χωρίς καμία αισθητή βελτίωση της απόδοσης τους. Αντ 'αυτού, φανταστείτε
+για μια στιγμή ότι αποθηκεύετε τη γνώση σε ένα δίκτυο ή γράφημα στο οποίο οι
+κόμβοι είναι τα γεγονότα και τα τόξα οι σχέσεις τους.(Αυτός σίγουρα δεν είναι ο
+τρόπος που λειτουργεί ο εγκέφαλος, αλλά είναι μια χρήσιμη μεταφορά.) Η βασική
+διαφορά μεταξύ των εμπειρογνωμόνων και των ικανών επαγγελματιών είναι ότι τα
+νοητικά μοντέλα των ειδικών είναι πολύ πιο πυκνά συνδεδεμένα, δηλ. είναι πολύ
+πιθανότερο να γνωρίζουν μια σύνδεση μεταξύ δύο οποιονδήποτε τυχαία επιλεγμένων πληροφοριών.
 
-This metaphor helps explain many observed aspects of expert behavior:
+Αυτή η μεταφορά βοηθάει στην εξήγηση πολλών παρατηρούμενων πτυχών της συμπεριφοράς των ειδικών:
 
-- Experts can jump directly from a problem to its solution because
-  there actually is a direct link between the two in their mind. Where
-  a competent practitioner would have to reason "A, B, C, D, E", the
-  expert can go from A to E in a single step. We call this
-  *intuition*, and it isn't always a good thing: when asked to explain
-  their reasoning, experts often can't, because they didn't actually
-  reason their way to the solution---they just recognized it.
+- Οι ειδικοί μπορούν να μεταπηδήσουν απευθείας από ένα πρόβλημα στη λύση του,
+  επειδή υπάρχει στην πραγματικότητα μια άμεση σχέση των δύο στο μυαλό τους.
+  Όταν οι ικανοί επαγγελματίες θα έπρεπε να συλλογιστούν και να οδηγηθούν
+  αιτιολογικά στα "A, B, C, D, E", οι εμπειρογνώμονες μπορούν να πάνε από το Α
+  ως το Ε σε ένα μόνο βήμα. Αυτό ονομάζεται *διαίσθηση*, και δεν είναι πάντα
+  καλό: όταν τους ζητηθεί να αιτιολογήσουν τη λογική τους, οι εμπειρογνώμονες
+  συχνά δεν μπορούν, επειδή δεν είχαν πραγματικά συλλογισμό για το δρόμο τους προς τη λύση---απλά την αναγνώρισαν.
 
-- Densely-connected graphs are also the basis for experts'
-  [fluid representations](#g:fluid-representation), i.e.,
-  their ability to switch back and forth between different views of a
-  problem [[Petr2016](#CITE)]. For example, when trying to solve a
-  problem in mathematics, an expert might switch between tackling it
-  geometrically and representing it as a set of equations to be
-  solved.
+- Τα πυκνά συνδεδεμένα γραφήματα είναι επίσης η βάση για τις
+  [ρευστές αναπαραστάσεις](#g:fluid-representations) (fluid representations) των
+  εμπειρογνωμόνων,δηλ. την ικανότητά τους να εναλλάσσονται μεταξύ διαφορετικών
+  όψεων ενός προβλήματος [[Petr2016](#CITE)]. Για παράδειγμα, όταν προσπαθούν
+  να λύσουν ένα πρόβλημα στα μαθηματικά, οι εμπειρογνώμονες ενδέχεται να το
+  εναλλάσουν μεταξύ της αντιμετώπισής του γεωμετρικά και της απεικονίσης του ως
+  σύνολο εξισώσεων ώστε να μπορεί να λυθεί.
 
-- This metaphor also explains why experts are better at diagnosis than
-  competent practitioners: more linkages between facts makes it easier
-  to reason backward from symptoms to causes. (And this in turn is why
-  asking programmers to debug during job interviews gives a more
-  accurate impression of their ability than asking them to program.)
+- Αυτή η μεταφορά εξηγεί επίσης γιατί οι ειδικοί είναι καλύτεροι στη διάγνωση
+  από ότι οι αρμόδιοι επαγγελματίες: περισσότερες συνδέσεις μεταξύ των δεδομένων καθιστούν ευκολότερη
+  την αντίστροφη συλλογιστική από τα συμπτώματα στις αιτίες. (Και αυτός με τη σειρά του είναι ο λόγος
+  που ζητείται από τους προγραμματιστές να εντοπίσουν σφάλματα κατά τη διάρκεια των συνεντεύξεων εργασίας από το να προγραμματίσουν, γιατί δίνει πιο
+  ακριβή εκτίμηση της ικανότητάς τους.)
 
-- Finally, experts are often so familiar with their subject that they
-  can no longer imagine what it's like to *not* see the world that
-  way. As a result, they are often less good at teaching the subject
-  than people with less expertise who still remember learning it
-  themselves.
+- Τέλος, οι ειδικοί είναι συχνά τόσο εξοικειωμένοι με το θέμα τους που
+  δεν μπορούν πλέον να φανταστούν πώς είναι για κάποιον το να μην αντιλαμβάνεται τον κόσμο με αυτό τον
+  τρόπο. Ως αποτέλεσμα, συχνά είναι λιγότερο καλοί στην διδασκαλία του θέματος
+  από ανθρώπους με λιγότερη τεχνογνωσία, οι οποίοι εξακολουθούν να θυμούνται
+  τους εαυτούς τους όταν μάθαιναν οι ίδιοι.
 
-The last of these points is important enough to have a name of its own:
-[expert blind spot](#g:expert-blind-spot). As originally
-defined in [[Nath2003](#CITE)], it is the tendency of experts to organize
-explanation according to the subject's deep principles, rather than
-being guided by what their learners already know. While it can be
-overcome with training, it's part of why there is no correlation between
-how good someone is at doing research in an area and how good they are
-at teaching it [[Mars2002](#CITE)].
 
-> **The J Word**
+Το τελευταίο από αυτά τα σημεία είναι τόσο σημαντικό ώστε να έχει ένα δικό του
+όνομα: [τυφλό σημείο εμπειρογνώμονα](#g:expert-blind-spot) (expert blind spot).
+Όπως αρχικά ορίστηκε στο [[Nath2003](#CITE)], είναι η τάση των εμπειρογνωμόνων
+να οργανώνουν εξηγήσεις σύμφωνα με τις βαθιές αρχές του υποκειμένου και όχι
+καθοδηγούμενοι από αυτό που γνωρίζουν ήδη οι μαθητές τους. Ενώ μπορεί να
+ξεπεραστεί με εκπαίδευση, είναι μέρος της αιτίας απουσίας συσχέτισης μεταξύ του
+πόσο καλός είναι κάποιος να κάνει έρευνα σε μια περιοχή και πόσο στη διδασκαλία αυτής [[Mars2002](#CITE)].
+
+> **Η Λέξη J (Just)**
 >
-> Experts often betray their blind spot by using the word "just" in
-> explanations, as in, "Oh, it's easy, you just fire up a new virtual
-> machine and then you just install these four patches to Ubuntu and
-> then you just re-write your entire program in a pure functional
-> language." As we discuss in [s:motivation](#CHAPTER), doing this
-> signals that the speaker thinks the problem is trivial and that the
-> person struggling with it must therefore be stupid.
+> Οι ειδικοί συχνά προδίδουν το τυφλό σημείο τους χρησιμοποιώντας τη λέξη "απλά"
+> (Just) στις εξηγήσεις, όπως στη φράση, "Ω, είναι εύκολο, *απλά* ξεκινάτε ένα νέο
+> εικονικό μηχάνημα και στη συνέχεια *απλά* εγκαθιστάτε αυτά τα τέσσερα μπαλώματα
+> (patches) στο Ubuntu και έπειτα *απλά* ξαναγράφετε όλο το πρόγραμμά σε γνήσια
+> συναρτησιακή γλώσσα (functional language)." Όπως θα συζητήσουμε στο
+> [s:motivation](#CHAPTER), κάνοντας το αυτό ο ομιλητής εκπέμπει το μήνυμα ότι
+> το πρόβλημα θεωρείται τετρημένο και το άτομο που παλεύει με αυτό θα πρέπει να είναι ηλίθιο.
 >
-> Don't do this.
+> Μην το κάνετε αυτό.
 
-## Concept Maps {#s:memory-concept-maps}
+## Εννοιολογικοί χάρτες {#s:memory-concept-maps}
 
-The graph metaphor explains why helping learners make connections is as
-important as introducing them to facts: without those connections, it's
-hard for people to recall things that they know. To use another analogy,
-the more people you know at a party, the less likely you are to leave
-early.
+Η γραφική μεταφορά (graph metaphor) εξηγεί γιατί η βοήθεια στους μαθητές να
+κάνουν συνδέσεις είναι τόσο σημαντική όσο και να τους παρουσιάσετε τα δεδομένα:
+χωρίς αυτές τις συνδέσεις, είναι είναι δύσκολο για τους ανθρώπους να ανακαλέσουν
+πράγματα που γνωρίζουν. Για να χρησιμοποιήσουμε μια άλλη αναλογία, όσο
+περισσότερους γνωρίζετε σε ένα πάρτι, τόσο λιγότερο πιθανό είναι να φύγετε νωρίς.
 
-Our tool of choice for representing someone's mental model as a graph is
-a [concept map](#g:concept-map), in which facts are bubbles
-and connections are labelled arcs. It is important that they are
-labelled: saying "X and Y are related" is only helpful if we explain
-what the relationship *is*. And yes, different people can have different
-concept maps for the same topic, but one of the benefits of concept
-mapping is that it makes those differences explicit.
+Το εργαλείο επιλογής μας για την απεικόνιση του πνευματικού μοντέλου κάποιου σε
+γράφημα είναι ένας εννοιολογικός χάρτης [concept map] (#g:concept-map), όπου τα
+γεγονότα είναι φυσαλίδες και οι συνδέσεις είναι τόξα με ετικέτες. Είναι σημαντικό
+να είναι με ετικέτες: λέγοντας "Το X και το Y σχετίζονται" είναι χρήσιμο μόνο αν
+εξηγήσουμε ποια *είναι* αυτή η σχέση. Και ναι, διαφορετικοί άνθρωποι μπορούν να
+έχουν διαφορετικούς εννοιολογικούς χάρτες για το ίδιο θέμα, αλλά ένα από τα
+οφέλη της εννοιολογικής χαρτογράφησης είναι ότι κάνει τις διαφορές αυτές σαφείς.
 
-As an example, [f:memory-seasons](#FIGURE) reproduces a concept map
-taken from the [IHMC CMap site][cmap-seasons] showing why the
-Earth has seasons, and [f:online-screencasting](#FIGURE) uses a concept
-map to explain how to create a good screencast.
+Για παράδειγμα, το [f:memory-seasons](#FIGURE) αναπαράγει έναν εννοιολογικό
+χάρτη από την τοποθεσία [IHMC CMap site](https://cmap.ihmc.us/), που δείχνει
+γιατί η γη έχει εποχές και το [f:online-screencasting](#FIGURE) χρησιμοποιεί ένα
+εννοιολογικό χάρτη για να εξηγήσει πώς μπορείτε να δημιουργήσετε μια καλή προβολή.
 
 <figure>
-  <img src="../../files/seasons.svg" alt="Concept Map for Seasons (from <https://cmap.ihmc.us/>)" />
-  <figcaption id="f:memory-seasons">Concept Map for Seasons (from https://cmap.ihmc.us/)</figcaption>
+  <img src="../../files/seasons.svg" alt="Εννοιολογικός χάρτης Εποχών (from <https://cmap.ihmc.us/>)" />
+  <figcaption id="f:memory-seasons">Εννοιολογικός χάρτης Εποχών (<https://cmap.ihmc.us/>)</figcaption>
 </figure>
 
-To show how concept maps can be using in teaching programming, consider
-this `for` loop in Python:
+Μια περίπτωση χρήσης των εννοιολογικών χαρτών στη διδασκαλία προγραμματισμού,
+αναλογιστείτε αυτό τον βρόχο `for`στην Python:
 
     for letter in "abc":
         print(letter)
 
-whose output is:
+το αποτέλεσμα του οποίου είναι:
 
     a
     b
     c
 
-The three key "things" in this loop are shown in the top of
-[f:memory-loop](#FIGURE), but they are only half the story. The
-expanded version in the bottom shows the *relationships* between those
-things, which are as important for understanding as the concepts
-themselves.
+Τα τρία βασικά "πράγματα" σε αυτόν τον βρόχο εμφανίζονται στην κορυφή του
+[f:memory-loop](#FIGURE), αλλά είναι μόνο η μισή ιστορία. Η επεκταμένη έκδοση
+στο κάτω μέρος δείχνει τις *σχέσεις* μεταξύ αυτών πράγματων που είναι τόσο
+σημαντικά για την κατανόηση όσο και οι ίδιες οι έννοιες.
+
 
 <figure>
-  <img src="../../files/for-loop.svg" alt="Concept Map for a For Loop" />
-  <figcaption id="f:memory-loop">Concept Map for a For Loop</figcaption>
+  <img src="../../files/for-loop.svg" alt="Εννοιολογικός χάρτης για ένα βρόχο 'For'" />
+  <figcaption id="f:memory-loop">Εννοιολογικός χάρτης για ένα βρόχο 'For'</figcaption>
 </figure>
 
-Concept maps can be used in many ways:
+Οι χρήσεις των εννοιολογικών χαρτών:
 
-Helping teachers figure out what they're trying to teach.
-: Crucially, a concept map separates content from order: in our
-  experience, people rarely wind up teaching things in the order in
-  which they first drew them. (In technical terms, they reduce the
-  teacher's cognitive load---we will discuss this again in
+- **Βοηθούν τους εκπαιδευτικούς να καταλάβουν τι προσπαθούν να διδάξουν.**
+  Βασικά, ένας εννοιολογικός χάρτης διαχωρίζει το περιεχόμενο από τη σειρά: από
+  την εμπειρία μας, οι άνθρωποι σπάνια καταλήγουν στη διδασκαλία των πραγμάτων
+  με τη σειρά που τα έβαλαν αρχικά. (Από τεχνικής άποψης, μειώνουν το το
+  γνωστικό φορτίο του δασκάλου---θα το συζητήσουμε ξανά στο
   [s:load](#CHAPTER).)
 
-Aiding communication between lesson designers.
-: Teachers with very different ideas of what they're trying to teach
-  are likely to pull their learners in different directions; drawing
-  and sharing concept maps isn't guaranteed to prevent this, but it
-  helps.
+- **Βοηθούν την επικοινωνία μεταξύ των σχεδιαστών του μαθήματος.**
+  Δάσκαλοι με πολύ διαφορετικές ιδέες για το τι προσπαθούν να διδάξουν είναι
+  πιθανό να τραβήξουν τους μαθητές τους σε διαφορετικές κατευθύνσεις.
+  Η σχέδιαση και διανομή εννοιολογικών χαρτών δεν εγγυάται να το αποτρέψει
+  αυτό, αλλά βοηθάει.
 
-Aiding communication with learners.
-: While it's possible to give learners a pre-drawn map at the start of
-  a lesson for them to annotate, it's better to draw it piece by piece
-  while teaching to reinforce the ties between what's in the map and
-  what the teacher said. (We will return to this idea in
+- **Βοηθούν την επικοινωνία με τους μαθητές.**
+  Παρόλο που είναι δυνατό να δοθεί στους μαθητές ένας προκαθορισμένος χάρτης
+  στην αρχή του μάθηματος για να υποσημειώνουν, είναι καλύτερο να σχεδιάστει λίγο
+  λίγο κατά τη διδιασκαλία ώστε να ενισχύσει τους δεσμούς μεταξύ του τι είναι
+  στο χάρτη και τι είπε ο δάσκαλος. (Θα επιστρέψουμε σε αυτή την ιδέα μέσα στο
   [s:load-split-attention](#SECTION).)
 
-For assessment.
-: Having learners draw pictures of what they think they just heard
-  shows the teacher what they missed and what was miscommunicated.
-  Reviewing learners' concept maps is too time-consuming to do as
-  in-class formative assessment, but very useful in weekly lectures
-  *once learners are familiar with the technique*. The qualification
-  is necessary because any new way of doing things initially slows
-  people down---if a student is trying to make sense of basic
-  programming, asking them to figure out how to draw their thoughts at
-  the same time is an unfair load.
+- **Για αξιολόγηση**.
+  Βάζοντας τους μαθητές να σχηματίσουν εικόνες αυτών που νομίζουν ότι μόλις
+  άκουσαν βοηθάει το δάσκαλο να δει τι έχασαν και τι τους επικοινωνήθηκε
+  λανθασμένα. Η επιθεώρηση των εννοιολογικών χαρτών των μαθητών ωστόσο είναι χρονοβόρος
+  και δεν επιτρέψει την διαμορφωτική αξιολόγηση (formative assessment) τους εντός τάξης, χρήσιμη όμως
+  σε εβδομαδιαίες διαλέξεις *μόλις οι μαθητές είναι εξοικειωμένοι με την τεχνική*.
+  Αυτή η επιφύλαξη είναι απαραίτητη γιατί κάθε νέος τρόπος τέλεσης μιας εργασίας
+  αρχικά επιβραδύνει τον καθένα---αν ένας φοιτητής προσπαθεί να καταλάβει
+  το βασικό προγραμματισμό, το να του ζητηθεί συγχρόνως βρει και τρόπο να
+  σχεδιάσει τις σκέψεις τους, είναι άδικη πίεση.
 
-[[Kepp2008](#CITE)] looked at the use of concept mapping in computing
-education. One of their findings was that, "...concept
-mapping is troublesome for many students because it tests personal
-understanding rather than knowledge that was merely learned by rote." As
-someone who values understanding over rote knowledge, I count that as a
-benefit.
+Στο [[Kepp2008](#CITE)] εξέτασαν τη χρήση εννοιολογικών χαρτών στην εκπαίδευση
+υπολογιστών (computing education). Ένα από τα ευρήματά τους ήταν ότι
+"... η χαρτογράφηση εννοιών είναι ενοχλητική για πολλούς φοιτητές, επειδή
+εξετάζει την προσωπική βαθύτερη κατανόηση τους και όχι την γνώση που αποστήθισαν
+από συνήθεια." Ως κάποιος που εκτιμά την κατανόηση έναντι της αποστήθισης,
+το προσμετρώ ως όφελος.
 
-Some teachers are also skeptical of whether novices can effectively map
-their understanding, since introspection and explanation of
-understanding are generally more advanced skills than understanding
-itself. Like any other new tool or technique, concept maps have to be
-taught and practiced if they are to be effective.
+Μερικοί δάσκαλοι είναι επίσης σκεπτικοί για το κατά πόσο οι αρχάριοι μπορούν να
+χαρτογραφήσουν αποτελεσματικά την κατανόησή τους, αφού η  ενδοσκόπηση και η
+επεξήγηση της κατανόησης είναι γενικά πιο προηγμένες δεξιότητες από την ίδια
+την κατανόηση. Όπως και κάθε άλλο νέο εργαλείο ή τεχνική, οι εννοιολογικοί
+χάρτες πρέπει να διδάσκονται και να εξασκούνται για να είναι αποτελεσματικοί.
 
-> **Start Anywhere**
+> **Ξεκινήστε οπουδήποτε**
 >
-> When asked to draw their first concept map, many people will stare at
-> the blank page in front of them, not knowing where to start. When this
-> happens, write down two words associated with the topic you're trying
-> to map, then draw a line between them and add a label explaining how
-> those two ideas are related. You can then ask what other things are
-> related in the same way, what parts those things have, or what happens
-> before or after the concepts already on the page in order to discover
-> more nodes and arcs. After that, the hard part is often stopping.
+> Όταν ζητηθεί να σχεδιάσουν τον πρώτο τους εννοιολογικό χάρτη, πολλοί θα
+> κοιτάζουν την κενή σελίδα, χωρίς να ξέρουν από πού να ξεκινήσουν. Όταν συμβεί
+> αυτό, γράψτε δύο λέξεις σχετικ΄ές με το θέμα, στη συνέχεια σύρετε μια γραμμή
+> μεταξύ τους και προσθέστε μια ετικέτα που να εξηγεί το πώς αυτές σχετίζονται.
+> Μπορείτε έπειτα να αναζητ΄σετε ποια άλλα πράγματα σχετίζονται με ίδιο τρόπο,
+> από ποια μέρη αποτελούνται ή τι συμβαίνει πριν ή μετά τις έννοιες που υπάρχουν
+> ήδη στη σελίδα, ώστε να ανακαλύψετε περισσότερους κόμβους και τόξα. Μετά από
+> αυτό, το δύσκολο μέρος συχνά ΄έχει τελειώσει.
 
-Concept maps are just one way to represent our understanding of a
-subject; others include mind maps (which are usually radial and
-hierarchical), conceptual diagrams (which use predefined categories and
-relationships), and visual metaphors (which are striking images overlaid
-with text) [[Eppl2006](#CITE)]. Maps, flowcharts, and blueprints can also
-be useful in some contexts, as can decision trees like
-[[Abel2009](#CITE)] that shows how to choose the right kind of chart for
-different kinds of questions and data.
+Οι εννοιολογικοί χάρτες είναι ένας τρόπος αναπαράστασης της κατανόησης μας για
+ένα θέμα; άλλοι είναι οι χάρτες λογισμού (mind maps, συνήθως ακτινωτοί και
+ιεραρχικοί), τα εννοιολογικά διαγράμματα (conceptual diagrams, χρησιμοποιούν
+προκαθορισμένες κατηγορίες και σχέσεις) και οι οπτικές μεταφορές (visual
+metaphors, χτυπητές εικόνες εμπλουτισμένες με κείμενο) [[Eppl2006](#CITE)].
+Χάρτες, διαγράμματα ροής και προσχέδια υλοποίησης (blueprints) μπορεί να είναι
+χρήσιμα σε μερικές περιπτώσεις, όπως και τα δέντρα αποφάσεων (decision trees)
+[[Abel2009](#CITE)] στην επιλογή του σωστού τύπου απεικόνισης για διαφορετικά είδη ερωτήσεων και δεδομένων.
 
-What each does is [externalize cognition](#g:externalized-cognition),
-i.e., make thought processes and mental models visible so that they
-can be compared, contrasted, and combined.  [[Cher2007](#CITE)]
-suggests that externalizing cognition may be the main reason
-developers draw diagrams when they are discussing things. They found
-that most developers can't identify the parts of their own diagrams
-shortly after having created them---instead of archiving information
-for posterity, diagrams are actually a cache for short-term memory
-that lets a participant in the discussion point at a wiggly bubble and
-say "that" to trigger recall of several minutes of debate.
+Αυτό που κάνει ο κάθε τρόπος είναι η [εξωτερίκευση της γνώσης](#g:externalized-cognition),
+δηλαδή, το να εμφανίσει τις διεργασίες σκέψης και τα νοητικά μοντέλα, για να
+γίνει δυνατή η σύγκριση, η αντιπαραβολή και ο συνδυασμός τους. Στο [[Cher2007](#CITE)]
+δηλώνεται ότι η εξωτερίκευση γνώσης ίσως είναι ο κύριος λόγος που προγραμματιστές
+σχεδιάζουν διαγράμματα καθώς συζητούν κάτι. Διαπιστώθηκε ότι οι περισσότεροι
+προγραμματιστές δεν μπορούν να αναγνωρίσουν τα μέρη των δικών τους διαγραμμάτων
+σύντομα μετά τη δημιουργία τους---αντί καταγραφής αρχείου για μεταγεννέστερη χρήση,
+τα διαγράμματα αυτά είναι στην πραγματικότητα προσωρινή εναπόθεση βραχυπρόθεσης
+μνήμης ώστε να επιτρέπει στο συνομιλητή να αναφερθεί σε κάποιο σχέδιο και να
+ενεργοποιήσει την ανάκληση αρκετών λεπτών της συζήτησης.
 
-> **Rough Work and Honesty**
+> **Πρόχειρη εργασία και τιμιότητα**
 >
-> Many user interface designers believe that it's better to show people
-> rough sketches of their ideas rather than polished mock-ups because
-> people are more likely to give honest feedback on something that they
-> think only took a few minutes to create---if it looks as though what
-> they're critiquing took hours to create, most will pull their punches.
-> When drawing concept maps to motivate discussion, you should therefore
-> use pencils and scrap paper (or pens and a whiteboard) rather than
-> fancy computer drawing tools.
+> Πολλοί σχεδιαστές διεπαφών χρήστη πιστεύουν ότι είναι καλύτερο να εμφανίζουν
+> πρόχειρα σκίτσα των ιδεών τους αντί τελειοποιημένες μακέτες, γιατί ΄έτσι είναι
+> πιθανότερο οι άλλοι να δώσουν ειλικρινείς παρατηρήσεις σχετικά με κάτι που
+> νομίζουν ότι χρειάστηκε μόνο λίγα λεπτά για να δημιουργηθεί---αν αυτό που
+> κρίνουν δείχνει σα να χρειάστηκε ώρες δημιουργίας, οι περισσότεροι θα είναι
+> συγκρατημένοι. Όταν σχεδιάζετε εννοιολογικούς χάρτες για να παρακινήσετε τη
+> συζήτηση, θα πρέπει, συνεπώς να χρησιμοποιήσετε μολύβια και υπολείμματα  χαρτιού
+> (ή στυλό και λευκό πίνακα) αντί εντυπωσιακά εργαλεία σχεδίασης μέσω υπολογιστή.
 
-## Seven Plus or Minus Two {#s:memory-seven-plus-or-minus}
+## Συν επτά ή μείον δύο {#s:memory-seven-plus-or-minus}
 
-While the graph model of knowledge is wrong but useful, another simple
-model has a sounder physiological basis. As a rough approximation,
-human memory can be divided into two distinct layers. The first,
-called [long-term](#g:long-term-memory) or [persistent
-memory](#g:persistent-memory), is where we store things like our
-friends' names, our home address, and what the clown did at our eighth
-birthday party that scared us so much. It is essentially unbounded:
-barring injury or disease, we will die before it fills up.  However,
-it is also slow to access---too slow to help us handle hungry lions
-and disgruntled family members.
+Ενώ το γραφικό μοντέλο της γνώσης είναι λάθος αλλά χρήσιμο, ένα άλλο απλό
+μοντέλο έχει πιο σταθερή φυσιολογική βάση. Ως γενική προσέγγιση, η ανθρώπινη
+μνήμη μπορεί να χωριστεί σε δύο διακριτά στρώματα. Το πρώτο, που ονομάζεται
+[μακροπρόθεσμη](#g:long-term-memory) ή
+[μόνιμη μνήμη](#g:persistent-memory), είναι όπου αποθηκεύουμε
+πράγματα όπως τα ονόματα των φίλων μας, τη διεύθυνση κατοικίας μας και αυτό που
+έκανε ο κλόουν στα πάρτι γενεθλίων στα οκτώ που μας φόβησε τόσο πολύ. Είναι ουσιαστικά
+απεριόριστη: αντέχει τραυματισμού ή ασθένειας, δεν θα γεμίσει ποτέ.
+Ωστόσο, είναι επίσης αργή στην πρόσβαση της---πολύ αργή για να μας βοηθήσει να
+διαχειριστούμε πεινασμένα λιοντάρια και δυσαρεστημένα μέλη της οικογένειας.
 
-Evolution has therefore given us a second system called
-[short-term](#g:short-term-memory) or [working
-memory](#g:working-memory). It is much faster, but also much smaller:
-[[Mill1956](#CITE)] estimated that the average adult's working memory
-could only hold 7±2 items at a time. This is why [phone
-numbers][phone-numbers] are typically 7 or 8 digits long: back when
-phones had dials instead of keypads, that was the longest string of
-numbers most adults could remember accurately for as long as it took
-the dial to go around several times. As [s:memory-pattern](#SECTION)
-discusses, short-term memory may actually be as small as 4±1 items;
-our innate tendency to remember things together gives the illusion of
-it being larger.
+Η εξέλιξη επομένως μας έδωσε ένα δεύτερο σύστημα που ονομάζεται
+[βραχυπρόθεσμα](#g:short-term-memory) ή
+[λειτουργική μνήμη](#g:working-memory). Είναι πολύ πιο γρήγορο, αλλά
+πολύ μικρότερο επίσης: στο [[Mill1956](#CITE)] εκτιμάται ότι ο μέσος όρος
+μνήμης εργασίας ενηλίκων μπορεί να περιέχει μόνο 7±2 στοιχεία κάθε φορά.
+Αυτός είναι ο λόγος που οι [αριθμοί τηλέφωνου](https://www.quora.com/Why-did-Bell-Labs-create-phone-numbers-of-7-digits-10-digits-Is-there-a-reason-that-dashes-and-brackets-are-used)
+έχουν τυπικά μήκος 7 ή 8 ψηφία: όταν τα τηλέφωνα είχαν δίσκο αριθμών (καντράν) αντί για
+πλήκτρα, αυτό ήταν το μεγαλύτερο μήκος σειράς αριθμών που μπορούσαν
+να θυμηθούν με ακρίβεια οι περισσότεροι ενήλικες για όσο χρειαζόταν ο δίσκος να
+γυρίσει και για όσες φορές. Όπως αναφέρει το [s:memory-pattern](#SECTION), η
+βραχυπρόθεσμη μνήμη μπορεί να είναι πράγματι τόσο μικρή όσο 4±1 στοιχεία, η
+έμφυτη τάση να θυμάστε πράγματα μαζί, μας δημιουργεί την ψευδαίσθηση ότι είναι μεγαλύτερη.
 
-> **Participation**
+> **Συμμετοχή**
 >
-> The size of working memory is sometimes used to explain why sports
-> teams tend to have about half a dozen members or be broken down into
-> sub-groups like the forwards and backs in rugby. It is also used to
-> explain why meetings are only productive up to a certain number of
-> participants: if twenty people try to discuss something, either three
-> meetings are going on at once or half a dozen people are talking while
-> everyone else listens. The argument is that people's ability to keep
-> track of their peers is constrained by the size of working memory, but
-> so far as I know, the link has never been proven.
+> Το μέγεθος της μνήμης εργασίας μερικές φορές χρησιμοποιείται για να εξηγήσει γιατί
+> οι αθλητικές ομάδες τείνουν να έχουν περίπου μισή ντουζίνα μέλη ή να χωρίζονται σε
+> υποομάδες όπως το εμπρός και πίσω στο ράγκμπι. Χρησιμοποιείται επίσης για
+> να εξηγήσει γιατί οι συναντήσεις είναι παραγωγικές μόνο μέχρι έναν ορισμένο αριθμό
+> συμμετέχοντων: εάν είκοσι άτομα προσπαθούν να συζητήσουν κάτι, είτε πρόκεται για
+> τρεις συναντήσεις που πραγματοποιούνται συγχρόνως ή μιση ντουζίνα άτομα μιλούν
+> και όλοι οι άλλοι ακούνε είναι το ίδιο. Το επιχείρημα είναι ότι η ικανότητα
+> παρακολούθησης των συνεργαζομένων μερών περιορίζεται από το μέγεθος της μνήμης
+> εργασίας, αλλά όσο ξέρω, η σχέση αυτή δεν έχει αποδειχθεί ποτέ.
 
-7±2 is probably the most important number in programming. When
-someone is trying to write the next line of a program, or understand
-what's already there, they need to keep a bunch of arbitrary facts
-straight in their head: what does this variable represent, what value
-does it currently hold, etc. If the number of facts grows too large,
-their mental model of the program comes crashing down (something we have
-all experienced).
+Το 7±2 είναι ίσως ο σημαντικότερος αριθμός στον προγραμματισμό. Όταν
+κάποιος προσπαθεί να γράψει την επόμενη γραμμή ενός προγράμματος ή να καταλάβει
+τι είναι ήδη εκεί, πρέπει να κρατήσει μια δέσμη αυθαίρετων γεγονότων
+στο μυαλό του: τι αντιπροσωπεύει αυτή η μεταβλητή, ποια αξία
+έχει αυτή τη στιγμή, κλπ. Εάν ο αριθμός των δεδομένων μεγαλώσει πάρα πολύ,
+το νοητικό μοντέλο του προγράμματος καταρρέει (κάτι του οπόιου την εμπειρία
+έχουμε όλοι).
 
-7±2 is also the most important number in teaching. A teacher cannot
-push information directly into a learner's long-term memory.  Instead,
-whatever they present is first stored in the learner's short-term
-memory, and is only transferred to long-term memory after it has been
-held there and rehearsed ([s:individual-strategies](#SECTION)). If the
-teacher presents too much information too quickly, the new will
-displace the old before it has a chance to consolidate in long-term
-memory.
+Το 7±2 είναι επίσης ο σημαντικότερος αριθμός στη διδασκαλία. Ένας δάσκαλος
+δεν μπορεί να ωθήσει πληροφορίες απευθείας στην μακρόχρονη μνήμη εκπαιδευόμενου.
+Αντίθετα, ότι παρουσιάζουν αποθηκεύονται στην βραχυπρόθεσμη μνήμη του
+εκπαιδευόμενου, και μεταφέρεται στη μακροχρόνια μνήμη μόνο αφού κρατηθεί εκεί
+και δοκιμαστεί σε επανάληψη στο
+([s:individual-strategies](#SECTION)). Αν ο δάσκαλος παρουσιάσει πάρα πολλή
+πληροφορία πολύ γρήγορα, η νέα θα μετατοπίζει την παλιά προτού να της δοθεί
+η ευκαιρία να συγχωνευτεί στην μακροπρόθεσμη μνήμη.
 
-This is one of the reasons to create a concept map for a lesson when
-designing it: doing so helps the teacher identify how many pieces of
-separate information the learner will need to store in memory as the
-lesson unfolds. In practice, I often draw a concept map, realize there's
-far too much in it to teach in a single pass, and then carve out
-tightly-connected subsections to break the lesson into digestible
-pieces, each of which leads to a formative assessment.
+Αυτός είναι ένας από τους λόγους δημιουργίας εννοιολογικού χάρτη στο σχεδιασμό
+του μαθήματος: κάνοντας το αυτό ο δάσκαλος θα μπορεί να προσδιορίσει πόσα ξεχωριστά
+κομμάτια πληροφορίας θα χρειαστεί να αποθηκεύσει στη μνήμη του ο μαθητής καθώς
+το μάθημα θα προχωρά. Στην πράξη, συχνά ζωγραφίζω έναν εννοιολογικό χάρτη,
+συνειδητοποιώ ότι υπάρχει πάρα πολύ διδακτέα ύλη σε αυτόν για ένα πέρασμα, και στη
+συνέχεια ξεχωρίζω στενά συνδεδεμένα υποτμήματα για να σπάσω το μάθημα σε εύπεπτα
+μέρη, καθένα από τα οποία οδηγεί σε διαμορφωτική αξιολόγηση.
 
-> **Building Concept Maps Together**
+> **Χτίζοντας τους εννοιολογικούς χάρτες μαζί**
 >
-> Concept maps can be used as a classroom discussion exercise. Put
-> learners in small groups (2--4 people each), give each group some
-> sticky notes on which a few key concepts are written, and have them
-> build a concept map on a whiteboard by placing those sticky notes,
-> connecting them with labelled arcs, and adding any other concepts they
-> think they need.
+> Οι εννοιολογικοί χάρτες μπορούν να χρησιμοποιηθούν ως άσκηση συζήτησης στην τάξη.
+> Βάλτε μαθητές σε μικρές ομάδες (2-4 άτομα η καθεμία), δώστε σε κάθε ομάδα μερικές
+> αυτοκόλλητες σημειώσεις για να γράψουν μερικές βασικές έννοιες και να χτίσουν
+> έναν εννοιολογικό χάρτη σε ένα λευκό πίνακα με αυτές τις κολλώδεις σημειώσεις,
+> τη σύνδεσή τους με ετικέτες σε τόξα και προσθέτοντας όποιες άλλες έννοιες
+> θεωρούν ότι χρειάζονται.
 >
-> The next time you have a team meeting, give everyone a sheet of paper
-> and have them spend a few minutes drawing a concept map of the project
-> you're all working on---separately. On the count of three, have everyone
-> reveal their concept maps simultaneously. Once everyone realizes how
-> different their mental models of the project are, a lot of interesting
-> discussion will ensue....
+> Την επόμενη φορά που θα έχετε συνάντηση ομάδας, δώστε σε όλους ένα λευκό χαρτί
+> και αφήστε τους λίγα λεπτά να σχεδιάσουν έναν εννοιολογικό χάρτη του έργου
+> εργάζεστε όλοι---ξεχωριστά. Με το τρία, ζητήστε όλοι συγχρόνως να
+> αποκαλύψουν ταυτόχρονα τους χάρτες τους. Μόλις όλοι αντιληφθούν πόσο
+> διαφορετικά είναι τα νοητικά μοντέλα τους για το έργο, θα εξασφαλίσετε μια
+> πολλή ενδιαφέρουσα συζήτηση....
 
-The simple model of memory presented here has largely been replaced by a
-more sophisticated one in which short-term memory is broken down into
-several modal stores (e.g., for visual vs. linguistic memory), each of
-which does some involuntary preprocessing [[Mill2016a](#CITE)]. Our
-presentation is therefore an example of a mental model that aids
-learning and everyday work, but is eventually superseded by something
-more complicated.
+Το απλό μοντέλο μνήμης που παρουσιάστηκε εδώ έχει αντικατασταθεί σε μεγάλο βαθμό
+από ένα πιο εξελιγμένο, στο οποίο αναλύεται η βραχυπρόθεσμη μνήμη
+διάφορα αποθετήρια βάση τρόπου (π.χ., οπτική έναντι γλωσσικής μνήμης), καθένα
+από τα οποία κάνει κάποια ακούσια προεπεξεργασία [[Mill2016a](#CITE)]. Η
+παρουσίαση μας είναι επομένως ένα παράδειγμα νοητικού μοντέλου που βοηθά
+τη μάθηση και την καθημερινή εργασία, αλλά τελικά αντικαθίσταται από κάτι
+πιο περίπλοκο.
 
-Research also now indicates that the limiting factor for long-term
-memory is not retention, but rather the ability to recall memories that
-are present. Studying in short, spaced periods in a variety of contexts
-improves recall; the reason may be that doing so creates more cues than
-cramming ([s:individual-strategies](#SECTION)).
+Έρευνες τώρα υποδεικνύουν ότι ο περιοριστικός παράγοντας για τη μακροπρόθεσμη
+μνήμη δεν είναι η διατήρηση, αλλά μάλλον η ικανότητα ανάκλησης των υπαρκτών
+αναμνήσεων. Η μελέτη σε σύντομες αραιές χρονικές περιόδους μέσα σε
+ποικίλα πλαίσια βελτιώνει την ανάκληση, ο λόγος μπορεί να είναι ότι με αυτόν τον τρόπο
+δημιουργούνται περισσότερες πλεξίδες από παραγεμίσματα  ([s:individual-strategies](#SECTION)).
 
-## Pattern Recognition {#s:memory-pattern}
+## Αναγνώριση μοτίβων {#s:memory-pattern}
 
-The preceding section said that short-term memory can only store
-7±2 items at a time, and recent research have suggested that its
-actual size might be as low as 4±1 items [[Dida2016](#CITE)]. In
-order to handle larger information sets, our minds create
-[chunks](#g:chunking). For example, most of us remember words
-as single items, rather than as sequences of letters. Similarly, the
-pattern made by five spots on cards or dice is remembered as a whole
-rather than as five separate pieces of information.
+Η προηγούμενη ενότητα ανέφερε ότι η βραχυπρόθεσμη μνήμη μπορεί να αποθηκεύσει μόνο
+7±2 στοιχεία τη φορά, και πρόσφατες έρευνες έχουν προτείνει ότι το
+το πραγματικό μέγεθος μπορεί να είναι τόσο χαμηλό όσο 4±1 στοιχεία [[Dida2016](#CITE)].
+Προκειμένου να χειριστούμε μεγαλύτερα σύνολα πληροφοριών, το μυαλό μας δημιουργεί
+(chunks) [τεμάχια](#g:chunking). Για παράδειγμα, οι περισσότεροι θυμούνται
+λέξεις ως μεμονωμένα αντικείμενα, παρά ως αλληλουχίες γραμμάτων. Ομοίως, το μοτίβο
+από πέντε κηλίδες σε κάρτες ή ζάρια απομνημονεύεται στο σύνολό του
+αντί σε πέντε διαφορετικά κομμάτια πληροφορίας.
 
-One key finding in cognition research is that experts have more and
-larger chunks than non-experts, i.e., experts "see" larger patterns, and
-have more patterns to match things against. This allows them to reason
-at a higher level, and to search for information more quickly and more
-accurately. However, chunking can also mislead us if we mis-identify
-things: newcomers really can sometimes see things that experts have
-looked at and missed.
+Ένα εύρημα κλειδί στην έρευνα της νόησης είναι ότι οι ειδικοί έχουν περισσότερα και
+μεγαλύτερα τεμάχια από τους μη ειδικούς, δηλαδή οι ειδικοί "βλέπουν" μεγαλύτερα μοτίβα και
+έχουν περισσότερα μοτίβα για να ταιριάξουν έναντι των πραγμάτων. Αυτό τους επιτρέπει
+να συλλογιστούν σε ανώτερο επίπεδο, και να αναζητήσουν γρηγορότερα πληροφορίες με
+περισσότερη ακρίβεια. Εντούτοις, ο τεμαχισμός μπορεί επίσης να παραπλανήσει
+αν πράγματα εντοπιστούν εσφαλμένα: οι νέοι μερικές φορές βλέπουν πράγματα που
+οι ειδικοί τα έχασαν παρόλο που τα είχαν κοίταξει.
 
-Given how important chunking is to thinking, it is tempting to try to
-teach patterns directly. One way to do this is to identify [design
-patterns][design-patterns], which are reusable solutions to common
-problems. Patterns help competent practitioners think and talk to each
-other in many domains (including teaching [[Berg2012](#CITE)]), but
-pattern catalogs are too dry and too abstract for novices to make
-sense of on their own. That said, giving names to a small number of
-patterns does seem to help with teaching, primarily by giving the
-learners a richer vocabulary to think and communicate with
-[[Kuit2004](#CITE),[Byck2005](#CITE),[Saja2006](#CITE)]. We will
-return to this in [s:pck-programming](#SECTION).
+Δεδομένου του πόσο σημαντικός είναι ο τεμαχισμός στη σκέψη, είναι δελεαστικό να
+γίνει προσπάθεια διδασκαλίας μοτίβων απευθείας. Ένας τρόπος για να γίνει αυτό
+είναι ο προσδιορισμός [μοτίβων σχεδίου](https://en.wikipedia.org/wiki/Software_design_pattern),
+τα οποία είναι επαναχρησιμοποιούμενες λύσεις για κοινά προβλήματα. Τα μοτίβα βοηθούν τους αρμόδιους
+επαγγελματίες να σκεφτούν και να μιλήσουν μεταξύ τους σε πολλούς τομείς
+(συμπεριλαμβανομένης της διδασκαλίας [[Berg2012](#CITE)]), αλλά οι κατάλογοι
+μοτίβων είναι πολύ λιτοί αφηρημένοι για να έχουν νόημα από μόνοι τους για τους αρχάριους.
+Βάση αυτού, ονοματίζοντας ένα μικρό αριθμό μοτίβων φαίνεται να βοηθά στη διδασκαλία,
+κυρίως παρέχοτας στους μαθητές ένα πλουσιότερο λεξιλόγιο για να σκέφτονται και να
+επικοινωνούν με αυτό [[Kuit2004](#CITE),[Byck2005](#CITE),[Saja2006](#CITE)].
+Θα επιστρέψουμε σε αυτό στο [s:pck-programming](# SECTION).
 
-## Becoming an Expert {#s:memory-becoming-expert}
+## Γίνομαι ειδικός εμπειρογνώμονας {#s:memory-becoming-expert}
 
-So how does someone become an expert? The idea that ten thousand hours
-of practice will do it is widely quoted but [probably not
-true][ten-thousand-hours]: doing the same thing over and over again is
-much more likely to solidify bad habits than improve performance. What
-actually works is [deliberate practice](#g:deliberate-practice) (also
-sometimes called [reflective practice](#g:reflective-practice)), which
-is doing similar but subtly different things, paying attention to what
-works and what doesn't, and then changing behavior in response to that
-feedback to get cumulatively better.
+Πώς γίνεται λοιπόν κάποιος εμπειρογνώμονας; Η ιδέα ότι αυτό θα γίνει με
+δέκα χιλιάδες ώρες πρακτικής είναι διαδεδομένη ευρέως αλλά [πιθανότατα μη αληθής](http://www.goodlifeproject.com/podcast/anders-ericsson/): κάνοντας
+το ίδιο πράγμα ξανά και ξανά είναι πολύ πιο πιθανή η εδραίωση κακών
+συνηθειών παρά η βελτίωση της απόδοσης. Αυτό που πραγματικά λειτουργεί είναι
+η [προμελετημένη πρακτική](#g:deliberate-practice) (επίσης μερικές φορές
+αποκαλείται [ανακλαστική πρακτική](#g:reflective-practice)), η οποία
+κάνει παρόμοια αλλά ελαφρώς διαφοροποιημένα πράγματα, προσέχοντας
+τι λειτουργεί και τι όχι, και αλλάζοντας συμπεριφορά τότε ως
+απάντηση αυτής της ανατροφοδότησης για σταδιακή βελτίωση.
 
-A common progression is for people to go through three stages:
+Μια κοινή εξέλιξη για τους ανθρώπους είναι να περάσουν από τρία στάδια:
 
-Act on feedback from others.
-: For example, a student might write an essay about what they did on
-  their summer holiday and get feedback from a teacher telling them
-  how to improve it.
+- **Να δράσουν στην ανατροφοδότηση από άλλους.**
+  Για παράδειγμα, οι μαθητές μπορούν να γράψουν από ένα δοκίμιο για το τι έκαναν
+  στις καλοκαιρινές τους διακοπές και να λάβουν σχόλια από το δάσκαλο που θα τους
+  λέει πώς να το βελτιώσουν.
 
-Give feedback to others.
-: For example, they might critique character development in *The
-  Catcher in the Rye*. For this to be effective, it's essential that
-  they get feedback on their feedback, i.e., that the teacher critiques
-  their analysis.
+- **Να δώσουν σχόλια σε άλλους.**
+  Για παράδειγμα, οι μαθητές θα μπορούσαν να κρίνουν την εξέλιξη του χαρακτήρα
+  *Ο φύλακας στη σίκαλη*. Για να είναι αποτελεσματικό αυτό, είναι σημαντικό να
+  λάβουν ανατροφοδότηση σχετικά με τα σχόλιά τους, δηλαδή κριτική του εκπαιδευτικού
+  στην ανάλυσή τους.
 
-Give feedback to themselves.
-: At some point, they start critiquing their own work in real time (or
-  nearly so) using the skills they have now built up. Doing this is so
-  much faster than waiting for feedback from others that proficiency
-  suddenly starts to take off.
+- **Να δώσουν ανατροφοδότηση για τον εαυτό τους.**
+  Σε κάποιο σημείο, αρχίζουν να κρίνουν τη δουλειά τους σε πραγματικό χρόνο (ή
+  σχεδόν έτσι) χρησιμοποιώντας δεξιότητες που έχουν δημιουργήσει πλέον. Αυτό
+  είναι κατά πολύ πιο γρήγορο από το να περιμένουν σχόλια από άλλους και η
+  ικανότητα ξαφνικά αρχίζει να απογειώνεται.
 
-> **What Counts as Deliberate Practice?**
+> **Τι μετρά ως προμελετημένη πρακτική;**
 >
-> [[Macn2014](#CITE)] found that "...deliberate practice
-> explained 26% of the variance in performance for games, 21% for music,
-> 18% for sports, 4% for education, and less than 1% for professions."
-> However, [[Eric2016](#CITE)] critiqued this finding by saying, "Summing
-> up every hour of any type of practice during an individual's career
-> implies that the impact of all types of practice activity on
-> performance is equal---an assumption that...is inconsistent
-> with the evidence." To be effective, deliberate practice requires both
-> a clear performance goal and immediate informative feedback.
+> Ο [[Macn2014](#CITE)] διαπίστωσε ότι "...η προμελετημένη πρακτική
+> εξήγησε το 26% της διακύμανσης στην απόδοση στα παιχνίδια, το 21% στη μουσική,
+> 18% στον αθλητισμό, 4% στην εκπαίδευση και λιγότερο από 1% στα επαγγέλματα. "
+> Ωστόσο, ο [[Eric2016](#CITE)] επικρίνει αυτό το εύρημα λέγοντας: "Αθροίζοντας
+> ανά ώρα οποιαδήποτε πρακτική κατά τη διάρκεια της σταδιοδρομίας ενός ατόμου
+> δείχνει ότι ο αντίκτυπος όλων των τύπων πρακτικής άσκησης στην απόδοση
+> είναι ίσος---μια υπόθεση που...είναι ασυνεπής με τα αποδεικτικά στοιχεία.
+> "Για να είναι αποτελεσματική, η προμελετημένη πρακτική απαιτεί και τα δύο ένα
+> σαφή στόχο απόδοσης και άμεση ενημερωτική ανατροφοδότηση.
 
-## Exercises {#s:memory-exercises}
+## Ασκήσεις {#s:memory-exercises}
 
-### Concept Mapping (pairs/30)
+### Εννοιολογική χαρτογράφηση
+**(ζευγάρια/30)**
 
-Draw a concept map for something you would teach in five minutes. Trade
-with a partner, and critique each other's maps. Do they present concepts
-or surface detail? Which of the relationships in your partner's map do
-you consider concepts and vice versa?
+Σχεδιάστε έναν εννοιολογικό χάρτη για κάτι που θα διδάσκατε σε πέντε
+λεπτά. Ανταλλάξτε το με έναν συνεργάτη και επικρίνεται ο ένας το
+χάρτη του άλλου. Παρουσιάζουν έννοιες ή επιφανειακές
+λεπτομέρειες; Ποιες από τις σχέσεις στο χάρτη του συνεργάτη
+σας τις θεωρείτε ιδέες και αντίστροφα;
 
-### Concept Mapping (Again) (small groups/20)
+### Εννοιολογική χαρτογράφηση (Ξανά)
+**(μικρές ομάδες/20)**
 
-Working in groups of 3--4, have each person independently draw a concept
-map showing their mental model of what goes on in a classroom. When
-everyone is done, compare the concept maps. Which concepts and
-relationships are common? Which are different? Where do your mental
-models agree and disagree?
+Δουλεύοντας σε ομάδες των 3--4, κάθε άτομο σχεδιάζει ξεχωριστά
+έναν εννοιολογικό χάρτη του τι γίνεται σε μια τάξη. Όταν όλοι ολοκληρώσουν,
+συγκρίνεται τους χάρτες. Ποιες έννοιες και σχέσεις είναι κοινές; Ποιες διαφέρουν;
+Που συμφωνούν ή διαφωνούν τα νοητικά μοντέλα;
 
-### A Concept Map for This Material (individual/30)
+### Ένας εννοιολογικός χάρτης για το παρών υλικό
+**(ατομικά/30)**
 
-After you have finished going through this material (not just this
-chapter), pick one small topic, draw a concept map for it, and send it
-to us ([s:joining](#APPENDIX)). If we decide to add it to this book, we
-will add you to the credits in the introduction.
+Αφού τελειώσετε με το παρών υλικό (όχι μόνο αυτό το κεφάλαιο),
+διαλέξτε μια μικρή ενότητα, σχεδιάστε τον εννοιολογικό χάρτη για αυτή, και στείλτε
+την σε μας ([s:joining](#APPENDIX)). Εφόσον επιλέξουμε να την προσθέσουμε σε αυτό το
+βιβλίο θα σας συμπεριλάβουμε στους επαίνους της εισαγωγής.
 
-### Noticing Your Blind Spot (small groups/10)
+### Παρατηρήστε το τυφλό σημείο σας
+**(μικρές ομάδες/10)**
 
-Consider all the things you have to know to understand this one line of
-Python source code:
+Αναλογιστείτε πόσα πράγματα πρέπει να μάθετε για να κατανοησετε
+αυτή την γραμμή κώδικα Python:
 
     answers = ['tuatara', 'tuataras', 'bus', "lick"]
 
-As [Elizabeth Wickes points out][wickes-analysis]:
+Όπως [σημειώνει η Elizabeth Wickes](https://twitter.com/elliewix/status/981285432922202113):
 
-- The square brackets surrounding the content mean we're working with
-  a list (as opposed to square brackets immediately to the right of
-  something, which is a data extraction notation).
+- Οι αγκύλες γύρω από το περιεχόμενο υποδηλώνουν ότι δουλεύουμε
+  με λίστα (σε αντίθεση με τις αγκύλες δεξιά αμέσως μετά από
+  κάτι, που είναι σημείωση εξόρυξης δεδομένων)
 
-- The elements are separated by commas, which are outside/between the
-  quotes (rather than inside, as they would be for quoted speech).
+- Τα στοιχεία χωρίζονται με κόμμα, εκτός/ανάμεσα στα εισαγωγικά
+  (αντί να είναι μέσα, όπως θα ήταν για μια ομιλία σε εισαγωγικά)
 
-- Each element is a character string, and we know that because of the
-  quotes. We could have number or other data types in here if we
-  wanted; we need quotes because we're working with strings.
+- Κάθε στοιχείο είναι ένα λεκτικό (σειρά χαρακτήρων), που διακρίνεται λόγω
+  των εισαγωγικών. Θα μπορούσαμε να έχουμε αριθμούς ή άλλους τύπους
+  δεδομένων εφόσον το θέλαμε, τα εισαγωγικά χρειάζονται επειδή δουλεύουμε με λεκτικά.
 
-- We're mixing our use of single and double quotes, and Python doesn't
-  care (so long as they balance around the individual strings).
+- Αναμειγνύουμε τη χρήση μονών και διπλών εισαγωγικών, χωρίς να
+  ενοχλείται η Python (αρκεί να ισοσκελίζουν γύρω από το κάθε λεκτικό).
 
-- Each comma is followed by a space, which is not required by Python,
-  but we prefer it for readability.
+- Κάθε κόμμα ακολουθείται από ένα κενό χαρακτήρα, που δεν
+  απαιτείται από την Python, αλλά το προτιμάμε για ευκολότερη ανάγνωση.
 
-Each of these details might be overlooked by an expert. Working in
-groups of 3--4, select something equally short from a lesson you have
-recently taught or taken and break it down to this level of detail.
+Κάθε από τις παραπάνω λεπτομέρειες μπορεί να αγνοηθεί από έναν εμπειρογνώμονα.
+Δουλεύοντας σε ομάδες των 3--4, επιλέξτε κάτι εξίσου σύντομο για ένα μάθημα που
+πρόσφατα διδάξατε ή παρακολουθήσατε και αναλύστε το σε αυτό το επίπεδο λεπτομέρειας.
 
 {% include links.md %}
